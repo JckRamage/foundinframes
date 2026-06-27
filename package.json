@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "@tailwindcss/typography": "latest",
+    "@vercel/analytics": "^2.0.1",
     "csv-parse": "latest",
     "fast-xml-parser": "latest",
     "gray-matter": "latest",

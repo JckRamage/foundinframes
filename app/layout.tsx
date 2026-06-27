@@ -1,6 +1,7 @@
 import type { Metadata } from "next"
 import Image from "next/image"
 import Link from "next/link"
+import { Analytics } from "@vercel/analytics/next"
 import PageBackground from "@/components/page-background"
 import SocialLinks from "@/components/social-links"
 import "./globals.css"
@@ -79,6 +80,7 @@ export default function RootLayout({
             <SocialLinks />
           </div>
         </footer>
+        <Analytics />
       </body>
     </html>
   )
