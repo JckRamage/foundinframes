@@ -1,5 +1,5 @@
-import Image from "next/image"
 import Link from "next/link"
+import PosterImage from "@/components/poster-image"
 import { formatRating, type ReviewSummary } from "@/lib/reviews"
 
 interface ReviewPosterCardProps {
@@ -12,13 +12,12 @@ export default function ReviewPosterCard({ review, priority = false }: ReviewPos
     <article className="group">
       <Link href={`/reviews/${review.slug}`} className="block">
         <div className="relative aspect-[2/3] overflow-hidden rounded-2xl border-4 border-maroon/15 bg-maroon/5 shadow-lg transition duration-300 group-hover:-translate-y-1 group-hover:border-orange/40 group-hover:shadow-xl">
-          <Image
+          <PosterImage
             src={review.posterUrl}
             alt={`${review.title} poster`}
-            fill
-            sizes="(min-width: 1024px) 25vw, (min-width: 640px) 33vw, 50vw"
-            className="object-cover transition duration-500 group-hover:scale-105"
+            sizes="(min-width: 1024px) 280px, (min-width: 768px) 33vw, 50vw"
             priority={priority}
+            className="transition duration-500 group-hover:scale-105"
           />
         </div>
         <div className="mt-4 space-y-1">
