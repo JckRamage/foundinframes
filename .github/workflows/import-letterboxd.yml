@@ -1,0 +1,38 @@
+name: Import Letterboxd reviews
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "12 7 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Import long Letterboxd reviews
+        run: npm run import:letterboxd:rss
+        env:
+          LETTERBOXD_USERNAME: foundinframes
+          MIN_REVIEW_WORDS: "400"
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+
+      - name: Commit new reviews
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Add imported Letterboxd reviews"
+          file_pattern: content/reviews/*.md

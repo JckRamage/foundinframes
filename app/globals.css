@@ -1,0 +1,76 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-display: "Abril Fatface", Georgia, serif;
+  --font-sans: "Poppins", ui-sans-serif, system-ui, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  background-color: #f8f7f0;
+  color: #5a3d2b;
+  font-family: var(--font-sans);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-display);
+  letter-spacing: 0.5px;
+}
+
+a {
+  text-underline-offset: 0.2em;
+}
+
+::selection {
+  background: #e5771e;
+  color: #ffecb4;
+}
+
+.retro-dot-grid {
+  background-image: radial-gradient(circle, rgba(90, 61, 43, 0.12) 1px, transparent 1px);
+  background-size: 26px 26px;
+}
+
+@keyframes retro-blob-float {
+  0%,
+  100% {
+    transform: translate(0, 0) scale(1);
+  }
+  33% {
+    transform: translate(24px, -18px) scale(1.04);
+  }
+  66% {
+    transform: translate(-16px, 14px) scale(0.98);
+  }
+}
+
+.retro-blob {
+  animation: retro-blob-float 22s ease-in-out infinite;
+}
+
+.retro-blob-delay-1 {
+  animation-delay: -7s;
+}
+
+.retro-blob-delay-2 {
+  animation-delay: -14s;
+}
+
+.retro-blob-delay-3 {
+  animation-delay: -18s;
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Found in Frames poster placeholder</title>
+  <desc id="desc">A warm editorial poster placeholder for reviews without artwork.</desc>
+  <rect width="600" height="900" fill="#5e110b"/>
+  <rect x="40" y="40" width="520" height="820" rx="32" fill="#ffecb4"/>
+  <rect x="84" y="86" width="432" height="610" rx="24" fill="#e5771e"/>
+  <circle cx="300" cy="390" r="112" fill="#75c8ae"/>
+  <path d="M260 330v120l108-60z" fill="#ffecb4"/>
+  <text x="300" y="770" text-anchor="middle" font-family="Georgia, serif" font-size="42" font-weight="700" fill="#5a3d2b">Found in Frames</text>
+  <text x="300" y="815" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" letter-spacing="5" fill="#5e110b">REVIEW</text>
+</svg>

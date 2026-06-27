@@ -1,0 +1,37 @@
+{
+  "name": "foundinframes",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "import:letterboxd:rss": "tsx scripts/import-letterboxd-rss.ts",
+    "import:letterboxd:export": "tsx scripts/import-letterboxd-export.ts",
+    "backfill:posters:rss": "tsx scripts/backfill-posters-from-rss.ts",
+    "backfill:posters:imdb": "tsx scripts/backfill-posters-from-imdb.ts"
+  },
+  "dependencies": {
+    "@tailwindcss/typography": "latest",
+    "csv-parse": "latest",
+    "fast-xml-parser": "latest",
+    "gray-matter": "latest",
+    "marked": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "turndown": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@types/turndown": "latest",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.17",
+    "tsx": "latest",
+    "typescript": "latest"
+  }
+}

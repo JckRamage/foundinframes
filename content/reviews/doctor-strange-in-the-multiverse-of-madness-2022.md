@@ -1,0 +1,57 @@
+---
+title: Doctor Strange in the Multiverse of Madness
+year: 2022
+rating: 3
+watchedDate: '2022-05-06'
+publishedDate: '2022-05-10'
+letterboxdUrl: 'https://boxd.it/2Pm8op'
+posterUrl: >-
+  https://m.media-amazon.com/images/M/MV5BN2YxZGRjMzYtZjE1ZC00MDI0LThjZmQtZTZmMzVmMmQ2NzBmXkEyXkFqcGc@._V1_.jpg
+wordCount: 1918
+slug: doctor-strange-in-the-multiverse-of-madness-2022
+excerpt: >-
+  (Provisional score, I can see this moving up and down 1 star) For the longest
+  time now the biggest critique facing the biggest cinematic franchise in
+  history is how “samey” ever...
+---
+(Provisional score, I can see this moving up and down 1 star)
+
+For the longest time now the biggest critique facing the biggest cinematic franchise in history is how “samey” everything feels. The films often lack a director’s vision, or a unique tone or visual style, they’re all cookie cutter films made to fit the Marvel mould. However, this has never been an opinion I’ve adopted, there’s marks of creative vision all over the MCU. Most notably in Gunn and Taika’s work but I’d argue that this also could apply to The Russo’s and Watts and even the director of the predecessor to this film Scott Derrickson.
+
+When hearing that Raimi had taken the reins on the sequel, I was immediately apprehensive, just personally he isn’t a director where I’ve particularly enjoyed his previous work, and knowing that Marvel does allow its directors, and creatives, some control over their projects did make me fearful that the continuation of some of my favourite characters in the MCU would be mishandled.
+
+To my surprise however, the Raimi-isms that saturate the entire film are what makes it work as well as it does. And despite me feeling creative visions in other entries to the MCU, as many others have claimed, this is first and foremost a Sam Raimi film, and with it, it has brought a completely different style and tone that has truly changed what a Marvel film can be.
+
+Although still constricted to the PG-13 rating, something again that garners a lot of critique from fans and critics about the MCU, this film pushing that limit to the max, and often what can’t be shown makes scenes even scarier. And this <i>is</i> a scary movie, or at least a Marvel translation of what a horror film is. The campy horror delightfulness that Raimi has become known for is just wonderful in this film. The whole Illuminati scene going into the chase scene is terrifying, it’s visceral and brutal, and a complete shock as it’s unlike anything seen in the franchise, which is a feat as we’re now 34 projects deep.
+
+The film is also plagued with the visual style that comes along with Raimi. There’s crash zooms and Dutch angles a plenty, along with some great use of practical effects. The editing is also <i>very</i> Raimi, for better and worse. Some of the editing in the film is just phenomenal, cutting between certain scenes to emphasise parallels and dichotomies between characters was such smart storytelling. However, the editing in moments feels very much like a grab bag of “what new effect can I use here”, resulting in the film feeling a bit all over the place.
+
+And that’s the crux of what’s wrong with Multiverse of Madness, it’s messy. Like <i>really</i> messy. The editing is inconsistent in moments, but the real messiness comes from the writing. This film moves at a breakneck pace, never once slowing down at all to let anything that’s just happened digest with the audience. Before they have time to question what went on in the scene they watched, the film has already moved on and leaves you having to abandon your questions or face getting left behind. While in the moment this pacing can actually be kinda fun, a non-stop thrill ride that you get to just witness on screen, once the credits role those questions come creeping back, leaving you wonder whether the film was all that impactful at all.
+
+Unfortunately, the most glaring issue with the film is in its character motivations and development. Starting with Wanda…disappointing is putting it lightly. Wanda was on her way to have the best arc in the entire MCU. A unique character that’s been built over multiple films, and the incredible WandaVision. Someone who’s flirted with the temptations of darkness, but who deep down has this deep desire to rid her life of grief and suffering having been through so much. Where WandaVision ends off, I don’t think it takes a genius to see that she’s heading down a dark path, but this film picks up with her as a full-on monstrosity.
+
+This isn’t the first time writer Michael Waldron has taken an established character and fast tracked their character development in order to service the plot, as he did in his previous MCU outing, Loki. The sad reality of this quick turn however is it’s rushed an arc that has been building since all the way back in 2015. And while I hate when people try “fix” films by rewriting them, as it doesn’t really service anything as there’s nothing we can do about the film we got, I think it’s glaringly obvious how this flip to villainy could have been better paced.
+
+If the film started with us picking up Wanda’s story where she’s exhausted all her options, the Darkhold has given her the knowledge on how to get her sons back but no clear answer on how to do it. She’s given up hope that she’ll be reunited with them. Enter Dr. Strange. Upon hearing a threat that seeks to destroy the multiverse he enlists Wanda’s help to defeat this evil and protect a girl who is being hunted down by this villain.
+
+Finding herself on a downward spiral, Wanda agrees to helping Strange hoping that doing some good will restore some purpose in her life. The villain they go to defeat can then be a throw away villain much like the one that intros the film. Once defeated Wanda meets America and learns of her unique powers. And then the switch flips. She’s been handed a solution to her problem on a silver platter. From there the film can pick up from where Wanda attacks Kamar-Taj and essentially function the same.
+
+It just felt very much in the similar vein of the Daenerys problem from GoT, granted nowhere near as bad, but it was just disappointing that viewers are expected to fill in the blanks when Wanda’s storyline in particular has been such a slow burn within the MCU. It isn’t surprising that the writing in this film is its weakest element, with the numerous reshoots and changes to the story with the changing schedule of the MCU, so this isn’t solely on Waldron. It’s just disappointing that such a great story arc has been rushed to service the plot of the film.
+
+As a Dr. Strange sequel and a WandaVision sequel, this film doesn’t function well as either. With Wanda it was the sharp character assassination of her development and descent into villainy. With Dr. Strange however, it just didn’t feel like his film at all. Not cause he wasn’t featured in it that much, he is, this is clearly a Dr. Strange film, but as a follow-up to the previous film, none of those narrative threads are really explored.
+
+We leave the first film with the looming threat of Mordo being a threat to our universe, this isn’t touched upon at all, apart from some throw away lines. It does tie quite nicely to the Mordo we meet in the Illuminati universe, but that relationship is nowhere near as developed as the film is telling you is. This sentiment rings true also for Strange and Christine. Yes, “I love you in every universe” was a great line but really? The first film doesn’t do much development of their relationship, and this one doesn’t either. Until suddenly this is a relationship that we’re being told is of the utmost importance to Strange, but we’re never shown this. And really in the first film Strange was still kind of a dick to her. What’s more disappointing is that in like 10 minutes of a What If…? episode, their relationship has more development than most of their time on screen.
+
+Most of these problems really lie with the first act. The set up feels very weak, despite having some great payoff later in the film. With a weak foundation the building crumbles. With news of their being a reported 40 minutes of runtime cut from the film, it does make you wonder whether this could’ve fleshed out some character development and gave scenes more breathing room instead of going on a non-stop pace the entire film.
+
+Despite being a multiverse spanning story, where anything is possible, the story is quite simple. This isn’t a bad thing, as it allows Raimi to flourish and indulge in his signature style as much as possible. However, it does result in even more weak character development. America Chavez made her MCU debut in this film and was essentially reduced to a maguffin. When we get character moments, especially between her and Strange, she brings this fun energy to the film. However, due to the pacing these moments are few and far between, and she ends up being something for Wanda to obtain.
+
+With such a simplistic story though, it does allow the film to focus on the journey of Strange and the concept of the multiverse as a whole, instead of being bogged down in trying to cram in multiple universes and cameos. And speaking of cameos, this film has a perfect amount of them. It’s not the cameo ridden epic that people expected but it’s all the better for it. The Illuminati scene is easily the best of the film, as it really let Raimi go as wild as he wanted with some of the most insane action ever in an MCU film.
+
+Honestly, the action as a whole was such a refreshing change of pace for Marvel. The scenes were wildly more creative, both visually and conceptually. The music fight in the 3rd act, is some of the goofiest, campiest action I’ve ever seen, and it was wonderful. Not only in the action, but the film as a whole, was shot with such a fluidity that again felt so unlike Marvel in the best way possible. Easily some of the best camera movement in the MCU to date, especially the Illuminati scene.
+
+Disappointingly though, something that honestly had me excited was Danny Elfman returning to work with Raimi on the score. And after the incredible score by Michael Giacchino on the predecessor, this score feels less creative. It barely utilised the brilliant themes and motifs set up in both Dr. Strange and WandaVision. Despite there being some amazing music queues, the score as a whole wasn’t that great which was a let-down.
+
+The performances throughout the film were all great, as you’d come to expect from an MCU film. Benedict Cumberbatch is such a wonderful Dr. Strange and this film doesn’t change that fact, but he’s completely outshined by Elizabeth Olsen, she completely steals the spotlight from everyone. Under Raimi’s direction, Olsen plays this Wanda as a full-on horror villain, and it works so well. Despite how we get there being messy, once Wanda is unleashed and allowed to go complete psycho slasher villain, it’s truly just fun, campy weirdness.
+
+And that’s just it once you get past the shaky first act, this is just a fun, campy horror film that is more spectacle than focused on character development. If you can abandon reservations about wanting to see continuations of characters stories, then it’s a blast. But the real strength of the MCU has been its character work, and in this film it feels like they’ve lost track of that, and opted to create something that’s inconsequential fun in a world of Strange.
