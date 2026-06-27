@@ -6,7 +6,7 @@ watchedDate: '2023-11-10'
 publishedDate: '2023-11-15'
 letterboxdUrl: 'https://boxd.it/5a8awx'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BYzczOWM4MzItMWMyOS00ZDczLWIxMzctNzBmYTgzOTI1MzI3XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/5/3/6/9/7/0/536970-the-marvels-0-600-0-900-crop.jpg?v=d084ca416c
 wordCount: 890
 slug: the-marvels-2023
 excerpt: >-

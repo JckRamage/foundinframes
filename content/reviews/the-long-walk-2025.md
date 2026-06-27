@@ -6,7 +6,7 @@ watchedDate: '2025-09-08'
 publishedDate: '2025-09-09'
 letterboxdUrl: 'https://boxd.it/b11CVD'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BNmE4YmIxNWQtMzJhMy00NDI5LWFmYjEtMGYyMmFhNzdjODVmXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/5/3/1/3/1/6/531316-the-long-walk-2025-0-600-0-900-crop.jpg?v=9cf0c245aa
 wordCount: 440
 slug: the-long-walk-2025
 excerpt: >-

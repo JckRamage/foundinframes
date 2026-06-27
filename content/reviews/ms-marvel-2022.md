@@ -6,7 +6,7 @@ watchedDate: '2022-07-19'
 publishedDate: '2022-07-21'
 letterboxdUrl: 'https://boxd.it/32ztJr'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BNzlkNjBmOWUtOTgzZS00OWIzLThkNWEtZTg5MGY2ODAyYzZjXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/8/7/7/0/5/8/877058-ms-marvel-0-600-0-900-crop.jpg?v=c1f84b5c9e
 wordCount: 608
 slug: ms-marvel-2022
 excerpt: >-

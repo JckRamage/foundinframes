@@ -6,7 +6,7 @@ watchedDate: '2021-10-17'
 publishedDate: '2021-10-19'
 letterboxdUrl: 'https://boxd.it/2dAAUp'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BMWE0M2U3NzktZmVkOC00ZTkzLWI2NjEtODA3MmM5NjAyYWUwXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/5/1/9/0/5/2/519052-the-tragedy-of-macbeth-0-600-0-900-crop.jpg?v=2feba2c908
 wordCount: 577
 slug: the-tragedy-of-macbeth-2021
 excerpt: >-

@@ -6,7 +6,7 @@ watchedDate: '2024-11-22'
 publishedDate: '2024-11-23'
 letterboxdUrl: 'https://boxd.it/7SlfgH'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/3/3/7/0/3/6/337036-wicked-2024-0-600-0-900-crop.jpg?v=c519c37ff7
 wordCount: 1238
 slug: wicked-2024
 excerpt: >-

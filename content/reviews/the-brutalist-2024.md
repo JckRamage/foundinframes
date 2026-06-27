@@ -6,7 +6,7 @@ watchedDate: '2025-01-31'
 publishedDate: '2025-02-03'
 letterboxdUrl: 'https://boxd.it/8Iw4Qp'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BM2U0MWRjZTMtMDVhNC00MzY4LTgwOTktZGQ2MDdiYTI4OWMxXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/4/7/8/4/2/8/478428-the-brutalist-0-600-0-900-crop.jpg?v=2f8cae2ea5
 wordCount: 662
 slug: the-brutalist-2024
 excerpt: >-

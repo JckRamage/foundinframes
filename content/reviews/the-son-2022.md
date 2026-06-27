@@ -6,7 +6,7 @@ watchedDate: '2022-09-08'
 publishedDate: '2022-09-12'
 letterboxdUrl: 'https://boxd.it/3du6nL'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BYjE4ZTJmMWQtNWI2My00NjhhLTkwYmEtODk5YzM0YzNkNjJjXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/7/2/3/5/7/8/723578-the-son-0-600-0-900-crop.jpg?v=f7ea895e01
 wordCount: 473
 slug: the-son-2022
 excerpt: >-

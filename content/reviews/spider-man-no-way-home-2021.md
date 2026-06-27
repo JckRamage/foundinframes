@@ -6,7 +6,7 @@ watchedDate: '2021-12-15'
 publishedDate: '2021-12-19'
 letterboxdUrl: 'https://boxd.it/2n2dDR'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BMmFiZGZjMmEtMTA0Ni00MzA2LTljMTYtZGI2MGJmZWYzZTQ2XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/5/6/0/7/8/7/560787-spider-man-no-way-home-0-600-0-900-crop.jpg?v=a336d4f40c
 wordCount: 1583
 slug: spider-man-no-way-home-2021
 excerpt: >-

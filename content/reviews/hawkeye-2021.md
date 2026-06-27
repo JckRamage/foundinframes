@@ -6,7 +6,7 @@ watchedDate: '2021-12-22'
 publishedDate: '2021-12-24'
 letterboxdUrl: 'https://boxd.it/2nZIBP'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BOGU5ZDBlOTAtOTZmYS00MWE0LTg0NzktNDcxZGJhN2FhZmM2XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/8/0/6/6/3/7/806637-hawkeye-0-600-0-900-crop.jpg?v=f3d14f0836
 wordCount: 836
 slug: hawkeye-2021
 excerpt: >-

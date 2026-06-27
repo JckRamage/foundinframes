@@ -6,7 +6,7 @@ watchedDate: '2024-11-19'
 publishedDate: '2024-11-20'
 letterboxdUrl: 'https://boxd.it/7QU61F'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BYmU3MzYzOWEtOTdkZi00YzA1LTliMzQtNDdiZDBjY2FiNmFlXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/1/2/4/7/2/7/2/1247272-the-penguin-2024-0-600-0-900-crop.jpg?v=eeeddc7b97
 wordCount: 698
 slug: the-penguin-2024
 excerpt: >-

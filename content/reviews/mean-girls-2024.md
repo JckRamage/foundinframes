@@ -6,7 +6,7 @@ watchedDate: '2024-01-20'
 publishedDate: '2024-01-21'
 letterboxdUrl: 'https://boxd.it/5DVuHT'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BYzlhMTkxZWMtYzQwNi00OWI4LWI2ZGQtOWQ0OGM4NDlkYTdiXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/5/9/8/2/7/4/598274-mean-girls-0-600-0-900-crop.jpg?v=c5c5a46d52
 wordCount: 504
 slug: mean-girls-2024
 excerpt: >-

@@ -6,7 +6,7 @@ watchedDate: '2022-06-18'
 publishedDate: '2022-06-19'
 letterboxdUrl: 'https://boxd.it/2WxbLV'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BZGI3ZjUyM2ItNmFjYy00NGE3LTg2OTYtMTI2MDk0MjIxNDA1XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/6/4/1/5/7/4/641574-lightyear-0-600-0-900-crop.jpg?v=e6f722b008
 wordCount: 655
 slug: lightyear-2022
 excerpt: >-

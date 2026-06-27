@@ -6,7 +6,7 @@ watchedDate: '2024-10-02'
 publishedDate: '2024-10-06'
 letterboxdUrl: 'https://boxd.it/7tGczN'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BOTQ2MTcwODgtOTg3Yi00M2RmLWEyMDQtY2IzZmRlYzM3YzhjXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/5/2/0/3/2/8/520328-megalopolis-0-600-0-900-crop.jpg?v=64ab4fa858
 wordCount: 1459
 slug: megalopolis-2024
 excerpt: >-

@@ -6,7 +6,7 @@ watchedDate: '2021-10-18'
 publishedDate: '2021-10-21'
 letterboxdUrl: 'https://boxd.it/2dR5Ud'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BZGIxMTU1MjItM2FmMi00YmFiLTgwNDMtMTczYmVjYTBhNGZhXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/5/0/8/6/3/8/508638-venom-let-there-be-carnage-0-600-0-900-crop.jpg?v=553c604246
 wordCount: 1230
 slug: venom-let-there-be-carnage-2021
 excerpt: >-

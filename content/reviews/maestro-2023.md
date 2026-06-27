@@ -6,7 +6,7 @@ watchedDate: '2023-09-03'
 publishedDate: '2023-09-06'
 letterboxdUrl: 'https://boxd.it/4O30C3'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BY2M1MWUyYzctMzk1Zi00M2RkLTkwY2YtMzE4MDhiZGQwZmU5XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/4/5/3/0/6/9/453069-maestro-0-600-0-900-crop.jpg?v=1dde1fa55f
 wordCount: 444
 slug: maestro-2023
 excerpt: >-

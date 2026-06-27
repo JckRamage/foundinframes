@@ -6,7 +6,7 @@ watchedDate: '2021-10-09'
 publishedDate: '2021-10-10'
 letterboxdUrl: 'https://boxd.it/2c8U1f'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BODdhZjBmZTEtZmQyMy00NWY5LWJiMWQtODhjODFkZWZlMjMyXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/5/0/5/0/0/0/505000-last-night-in-soho-0-600-0-900-crop.jpg?v=0b5403ef97
 wordCount: 893
 slug: last-night-in-soho-2021
 excerpt: >-

@@ -6,7 +6,7 @@ watchedDate: '2023-08-20'
 publishedDate: '2023-08-23'
 letterboxdUrl: 'https://boxd.it/4JLPnh'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BOTM4NzVhZjgtYjE5OC00OTVjLWFjZDgtOWFlZDYzMzI1NGVlXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/8/7/9/0/6/4/879064-femme-0-600-0-900-crop.jpg?v=0c7d4a57c1
 wordCount: 484
 slug: femme-2023
 excerpt: >-

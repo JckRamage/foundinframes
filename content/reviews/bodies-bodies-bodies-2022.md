@@ -6,7 +6,7 @@ watchedDate: '2022-08-23'
 publishedDate: '2022-08-24'
 letterboxdUrl: 'https://boxd.it/3a1233'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BYmFlMTFlNjMtYzFlNy00ZjI4LTkwYmItZjA4MzFmMDJlOWQzXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/4/4/9/4/4/2/449442-bodies-bodies-bodies-0-600-0-900-crop.jpg?v=1dfddd92ac
 wordCount: 521
 slug: bodies-bodies-bodies-2022
 excerpt: >-

@@ -6,7 +6,7 @@ watchedDate: '2021-07-07'
 publishedDate: '2021-07-08'
 letterboxdUrl: 'https://boxd.it/1YG4uB'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BZTMyZTA0ZTItYjY3Yi00ODNjLWExYTgtYzgxZTk0NTg0Y2FlXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/4/2/7/8/0/7/427807-black-widow-0-600-0-900-crop.jpg?v=691395e563
 wordCount: 798
 slug: black-widow-2021
 excerpt: >-

@@ -6,7 +6,7 @@ watchedDate: '2025-01-17'
 publishedDate: '2025-01-21'
 letterboxdUrl: 'https://boxd.it/8yakfl'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BYTA2NTA5NDYtMzlkOC00MTQxLWI0NDQtMzk2M2YzMGE4MTkxXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/5/8/6/5/8/3/586583-a-complete-unknown-0-600-0-900-crop.jpg?v=f14ab6ecf6
 wordCount: 458
 slug: a-complete-unknown-2024
 excerpt: >-

@@ -6,7 +6,7 @@ watchedDate: '2022-05-06'
 publishedDate: '2022-05-10'
 letterboxdUrl: 'https://boxd.it/2Pm8op'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BN2YxZGRjMzYtZjE1ZC00MDI0LThjZmQtZTZmMzVmMmQ2NzBmXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/3/8/5/5/1/1/385511-doctor-strange-in-the-multiverse-of-madness-0-600-0-900-crop.jpg?v=009a8981af
 wordCount: 1918
 slug: doctor-strange-in-the-multiverse-of-madness-2022
 excerpt: >-

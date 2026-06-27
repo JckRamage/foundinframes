@@ -6,7 +6,7 @@ watchedDate: '2021-10-07'
 publishedDate: '2021-10-08'
 letterboxdUrl: 'https://boxd.it/2bQ3mX'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BNjcyYzIyMTItNDQzYS00ZmI5LWJlYzItZDk5ZmEyNDlhNWQ3XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/6/3/9/5/5/9/639559-spencer-0-600-0-900-crop.jpg?v=33938ea371
 wordCount: 946
 slug: spencer-2021
 excerpt: >-

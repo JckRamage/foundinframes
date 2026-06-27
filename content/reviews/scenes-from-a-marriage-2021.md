@@ -6,7 +6,7 @@ watchedDate: '2021-11-24'
 publishedDate: '2021-11-29'
 letterboxdUrl: 'https://boxd.it/2jY2Ax'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BMDBiNWZjZjUtODJiMC00OGEwLWIwYTItMDNmZjdmN2M3NjY0XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/7/7/6/4/4/4/776444-scenes-from-a-marriage-0-600-0-900-crop.jpg?v=67072bf22f
 wordCount: 767
 slug: scenes-from-a-marriage-2021
 excerpt: >-

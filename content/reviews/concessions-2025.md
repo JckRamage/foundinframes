@@ -6,7 +6,7 @@ watchedDate: '2025-08-15'
 publishedDate: '2025-08-20'
 letterboxdUrl: 'https://boxd.it/aN2XuJ'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BOTg3ZmJmOWEtYjhmOC00MjQ0LWJjY2UtNWRhZWExYzIwMDJkXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/1/2/4/4/6/1/7/1244617-concessions-2025-0-600-0-900-crop.jpg?v=479e2143a7
 wordCount: 562
 slug: concessions-2025
 excerpt: >-

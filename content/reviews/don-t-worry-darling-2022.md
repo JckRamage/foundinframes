@@ -6,7 +6,7 @@ watchedDate: '2022-09-06'
 publishedDate: '2022-09-09'
 letterboxdUrl: 'https://boxd.it/3cUYpz'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BZDZiNmRkNDUtYTQ3NS00MzI2LWIyZjctMzQ3ZGE1YmExNzkyXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/5/4/6/3/4/7/546347-don-t-worry-darling-0-600-0-900-crop.jpg?v=f458525152
 wordCount: 498
 slug: don-t-worry-darling-2022
 excerpt: >-

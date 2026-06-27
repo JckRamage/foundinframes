@@ -6,7 +6,7 @@ watchedDate: '2021-01-07'
 publishedDate: '2021-01-07'
 letterboxdUrl: 'https://boxd.it/1zocDv'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BM2U2NjdkYjEtMDU0Mi00YTRlLWJmYjItOTUzMzA5NmY1YzM1XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/5/2/6/7/0/8/526708-the-critic-0-600-0-900-crop.jpg?v=54b1bfbe85
 wordCount: 463
 slug: the-critic-2018
 excerpt: >-

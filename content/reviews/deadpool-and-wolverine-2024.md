@@ -6,7 +6,7 @@ watchedDate: '2024-07-26'
 publishedDate: '2024-07-27'
 letterboxdUrl: 'https://boxd.it/6XS56Z'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BZTk5ODY0MmQtMzA3Ni00NGY1LThiYzItZThiNjFiNDM4MTM3XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/4/6/2/8/7/0/462870-deadpool-wolverine-0-600-0-900-crop.jpg?v=1aa778d2c6
 wordCount: 685
 slug: deadpool-and-wolverine-2024
 excerpt: >-

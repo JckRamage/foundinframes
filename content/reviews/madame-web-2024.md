@@ -6,7 +6,7 @@ watchedDate: '2024-02-16'
 publishedDate: '2024-02-17'
 letterboxdUrl: 'https://boxd.it/5QIuQn'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BODViOTZiOTQtOTc4ZC00ZjUxLWEzMjItY2ExMmNlNDliNjE4XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/5/6/0/6/9/7/560697-madame-web-0-600-0-900-crop.jpg?v=305a4aead1
 wordCount: 535
 slug: madame-web-2024
 excerpt: >-

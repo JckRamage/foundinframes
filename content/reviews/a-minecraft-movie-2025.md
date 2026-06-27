@@ -6,7 +6,7 @@ watchedDate: '2025-04-04'
 publishedDate: '2025-04-08'
 letterboxdUrl: 'https://boxd.it/9m14qJ'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BYzFjMzNjOTktNDBlNy00YWZhLWExYTctZDcxNDA4OWVhOTJjXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/8/5/4/6/9/1/854691-a-minecraft-movie-0-600-0-900-crop.jpg?v=074e7fed9e
 wordCount: 510
 slug: a-minecraft-movie-2025
 excerpt: >-

@@ -6,7 +6,7 @@ watchedDate: '2024-10-31'
 publishedDate: '2024-11-05'
 letterboxdUrl: 'https://boxd.it/7JmZ31'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BMDcyZTNjOTEtNzc5Yy00Y2UzLThkMWYtNTY4YmM4OWI5OTMzXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/1/2/4/1/3/1/2/1241312-agatha-all-along-2024-0-600-0-900-crop.jpg?v=ff490338fa
 wordCount: 942
 slug: agatha-all-along-2024
 excerpt: >-

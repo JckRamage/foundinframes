@@ -6,7 +6,7 @@ watchedDate: '2024-12-18'
 publishedDate: '2024-12-22'
 letterboxdUrl: 'https://boxd.it/86Y56V'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BMjE5YjAyOWYtMDk2Zi00NjFmLWE3OGMtMjc0ZjNmYjQxMmEzXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/9/5/5/1/8/4/955184-queer-2024-0-600-0-900-crop.jpg?v=a53659b461
 wordCount: 702
 slug: queer-2024
 excerpt: >-

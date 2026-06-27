@@ -6,7 +6,7 @@ watchedDate: '2021-11-12'
 publishedDate: '2021-11-14'
 letterboxdUrl: 'https://boxd.it/2hFlV9'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BZTBiZjI2M2UtZTNiNy00NmU4LWJiMjYtZjk4MDIzMzhlMjFlXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/4/5/4/0/1/6/454016-eternals-0-600-0-900-crop.jpg?v=2578d04fd8
 wordCount: 1377
 slug: eternals-2021
 excerpt: >-

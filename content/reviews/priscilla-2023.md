@@ -6,7 +6,7 @@ watchedDate: '2023-09-04'
 publishedDate: '2023-09-07'
 letterboxdUrl: 'https://boxd.it/4Oha3F'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BOWRjYjVhYWUtNjM2OS00OWE1LTk5ZmYtZDM3MjllNzI1ZmQ4XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/9/1/9/1/2/1/919121-priscilla-0-600-0-900-crop.jpg?v=d9ff2d4c5e
 wordCount: 511
 slug: priscilla-2023
 excerpt: >-

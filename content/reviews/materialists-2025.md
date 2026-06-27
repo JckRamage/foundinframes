@@ -6,7 +6,7 @@ watchedDate: '2025-07-20'
 publishedDate: '2025-08-13'
 letterboxdUrl: 'https://boxd.it/aIryNr'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BNmQxMTI1YmEtOGY3Yi00NzVlLWEzMjAtYTI1NWZkNDFiMDg1XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/1/0/2/4/5/6/2/1024562-materialists-0-600-0-900-crop.jpg?v=ae3470f333
 wordCount: 2230
 slug: materialists-2025
 excerpt: >-

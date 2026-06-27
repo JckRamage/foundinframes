@@ -6,7 +6,7 @@ watchedDate: '2024-03-01'
 publishedDate: '2024-03-02'
 letterboxdUrl: 'https://boxd.it/5WX1nZ'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/6/1/7/4/4/3/617443-dune-part-two-0-600-0-900-crop.jpg?v=cc533700f8
 wordCount: 854
 slug: dune-part-two-2024
 excerpt: >-

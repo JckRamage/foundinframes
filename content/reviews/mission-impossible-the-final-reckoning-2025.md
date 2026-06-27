@@ -6,7 +6,7 @@ watchedDate: '2025-05-23'
 publishedDate: '2025-05-26'
 letterboxdUrl: 'https://boxd.it/9NyhHx'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BZGQ5NGEyYTItMjNiMi00Y2EwLTkzOWItMjc5YjJiMjMyNTI0XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/5/0/3/4/0/3/503403-mission-impossible-the-final-reckoning-0-600-0-900-crop.jpg?v=00eae3744d
 wordCount: 627
 slug: mission-impossible-the-final-reckoning-2025
 excerpt: >-

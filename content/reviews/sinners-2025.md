@@ -6,7 +6,7 @@ watchedDate: '2025-04-18'
 publishedDate: '2025-04-20'
 letterboxdUrl: 'https://boxd.it/9shqMN'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BNjIwZWY4ZDEtMmIxZS00NDA4LTg4ZGMtMzUwZTYyNzgxMzk5XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/1/1/1/6/6/0/0/1116600-sinners-2025-0-600-0-900-crop.jpg?v=5996b7d555
 wordCount: 733
 slug: sinners-2025
 excerpt: >-

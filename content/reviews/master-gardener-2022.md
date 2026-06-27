@@ -6,7 +6,7 @@ watchedDate: '2022-09-04'
 publishedDate: '2022-09-05'
 letterboxdUrl: 'https://boxd.it/3cmVbL'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BMDMwN2U3OWQtNGUwMi00M2M3LThmMGQtYWVjZjE3NmQxOWIxXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/7/8/1/6/7/5/781675-master-gardener-0-600-0-900-crop.jpg?v=8a9446fced
 wordCount: 452
 slug: master-gardener-2022
 excerpt: >-

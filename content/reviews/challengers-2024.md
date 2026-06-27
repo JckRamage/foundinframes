@@ -6,7 +6,7 @@ watchedDate: '2024-04-25'
 publishedDate: '2024-05-04'
 letterboxdUrl: 'https://boxd.it/6oPlZl'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BZTcyZGIyODctZGJhOS00MWUyLWI5ZWEtMjg4YzhkMDczMDBhXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/8/4/2/3/0/1/842301-challengers-0-600-0-900-crop.jpg?v=a7cd63cbef
 wordCount: 885
 slug: challengers-2024
 excerpt: >-

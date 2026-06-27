@@ -6,7 +6,7 @@ watchedDate: '2023-06-30'
 publishedDate: '2023-07-02'
 letterboxdUrl: 'https://boxd.it/4sfmIt'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BYWJlOWE2ZjEtZGRhOC00M2YzLWFkZGEtYzIzZWI2Zjg3NWYxXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/2/6/5/4/3/3/265433-indiana-jones-and-the-dial-of-destiny-0-600-0-900-crop.jpg?v=34f4a02c6b
 wordCount: 475
 slug: indiana-jones-and-the-dial-of-destiny-2023
 excerpt: >-

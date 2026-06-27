@@ -6,7 +6,7 @@ watchedDate: '2025-10-08'
 publishedDate: '2025-10-09'
 letterboxdUrl: 'https://boxd.it/biWu4j'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BY2Q0OTA5MTEtNWU4NC00ZWFmLTg5NmYtNDFmODViYWUxZmJkXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/7/2/9/1/1/3/729113-wake-up-dead-man-0-600-0-900-crop.jpg?v=85f3366617
 wordCount: 672
 slug: wake-up-dead-man-2025
 excerpt: >-

@@ -6,7 +6,7 @@ watchedDate: '2022-11-13'
 publishedDate: '2022-11-18'
 letterboxdUrl: 'https://boxd.it/3rpbyZ'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BYWY5NDY1ZjItZDQxMy00MTAzLTgyOGQtNTQxYjFiMzZjMjUyXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/4/3/5/4/6/0/435460-black-panther-wakanda-forever-0-600-0-900-crop.jpg?v=27db1e3d45
 wordCount: 1217
 slug: black-panther-wakanda-forever-2022
 excerpt: >-

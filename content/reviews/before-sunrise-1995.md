@@ -6,7 +6,7 @@ watchedDate: '2025-06-16'
 publishedDate: '2025-06-17'
 letterboxdUrl: 'https://boxd.it/a1Lgd9'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BZDZhZmI1ZTUtYWI3NC00NTMwLTk3NWMtNDc0OGNjM2I0ZjlmXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/5/1/9/7/4/51974-before-sunrise-0-600-0-900-crop.jpg?v=006e8fedea
 wordCount: 441
 slug: before-sunrise-1995
 excerpt: >-

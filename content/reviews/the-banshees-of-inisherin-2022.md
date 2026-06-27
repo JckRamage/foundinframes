@@ -6,7 +6,7 @@ watchedDate: '2022-09-06'
 publishedDate: '2022-09-10'
 letterboxdUrl: 'https://boxd.it/3d4SLp'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BOTkzMWI4OTEtMTk0MS00MTUxLWI4NTYtYmRiNWM4Zjc1MGRhXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/5/9/8/8/8/2/598882-the-banshees-of-inisherin-0-600-0-900-crop.jpg?v=933f9af6e7
 wordCount: 470
 slug: the-banshees-of-inisherin-2022
 excerpt: >-

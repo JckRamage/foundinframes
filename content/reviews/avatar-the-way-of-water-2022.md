@@ -6,7 +6,7 @@ watchedDate: '2022-12-19'
 publishedDate: '2022-12-20'
 letterboxdUrl: 'https://boxd.it/3ykXgn'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BNWI0Y2NkOWEtMmM2OC00MjQ3LWI1YzItZGQxYzQ3NzI4NWZmXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/6/3/0/5/8/63058-avatar-the-way-of-water-0-600-0-900-crop.jpg?v=cc3269e69d
 wordCount: 712
 slug: avatar-the-way-of-water-2022
 excerpt: >-

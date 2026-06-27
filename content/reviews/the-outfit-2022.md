@@ -6,7 +6,7 @@ watchedDate: '2022-03-02'
 publishedDate: '2022-03-05'
 letterboxdUrl: 'https://boxd.it/2DbMcX'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BZTY2M2U5OTEtNDljYS00MGQwLWI4YzQtOGJiMzUxM2IyYjRhXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/7/1/7/5/4/1/717541-the-outfit-0-600-0-900-crop.jpg?v=f4685a3b4c
 wordCount: 847
 slug: the-outfit-2022
 excerpt: >-

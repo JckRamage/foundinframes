@@ -6,7 +6,7 @@ watchedDate: '2021-09-03'
 publishedDate: '2021-09-05'
 letterboxdUrl: 'https://boxd.it/27e1oP'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BZmY5MDcyNzAtYzg3MC00MGNlLTg3OGItNmRjYThkZGVlNzAyXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/4/9/4/9/6/9/494969-shang-chi-and-the-legend-of-the-ten-rings-0-600-0-900-crop.jpg?v=49ce6b6893
 wordCount: 1282
 slug: shang-chi-and-the-legend-of-the-ten-rings-2021
 excerpt: >-

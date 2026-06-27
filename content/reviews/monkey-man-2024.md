@@ -6,7 +6,7 @@ watchedDate: '2024-04-05'
 publishedDate: '2024-04-07'
 letterboxdUrl: 'https://boxd.it/6dSsvz'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BODM2ZmZjYmQtNTA3NC00MmYzLWEwOTItMDNjYzc3MzI1NWNmXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/4/8/8/7/5/1/488751-monkey-man-0-600-0-900-crop.jpg?v=0c25a18552
 wordCount: 485
 slug: monkey-man-2024
 excerpt: >-

@@ -6,7 +6,7 @@ watchedDate: '2023-06-23'
 publishedDate: '2023-06-26'
 letterboxdUrl: 'https://boxd.it/4qrrux'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BZjY2YjYxNjEtNDJkYi00ZmJjLWIwYTEtNjEyZDgzY2M5ZDc3XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/6/6/8/5/5/5/668555-asteroid-city-0-600-0-900-crop.jpg?v=700bea7fd5
 wordCount: 453
 slug: asteroid-city-2023
 excerpt: >-

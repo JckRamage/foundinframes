@@ -6,7 +6,7 @@ watchedDate: '2025-09-26'
 publishedDate: '2025-10-01'
 letterboxdUrl: 'https://boxd.it/bdZ0rD'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/9/5/1/2/7/7/951277-one-battle-after-another-0-600-0-900-crop.jpg?v=d27c4cc662
 wordCount: 1199
 slug: one-battle-after-another-2025
 excerpt: >-

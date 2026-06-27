@@ -6,7 +6,7 @@ watchedDate: '2023-12-01'
 publishedDate: '2023-12-03'
 letterboxdUrl: 'https://boxd.it/5gauHX'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BYjM3YmUzZmQtMTEwMy00ZTMzLTk2NjMtMzdjNWE4YTIwNTk0XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/1/0/7/1/9/2/6/1071926-renaissance-a-film-by-beyonce-0-600-0-900-crop.jpg?v=a640fb49b8
 wordCount: 762
 slug: renaissance-a-film-by-beyonce-2023
 excerpt: >-

@@ -6,7 +6,7 @@ watchedDate: '2021-10-14'
 publishedDate: '2021-10-18'
 letterboxdUrl: 'https://boxd.it/2dp9Rh'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BM2ZhZjE2MDEtY2EwNS00MzA5LTkxZTctOGQ5MDE0NTQ2YzdmXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/5/5/6/5/5/3/556553-titane-0-600-0-900-crop.jpg?v=1383f3a942
 wordCount: 639
 slug: titane-2021
 excerpt: >-

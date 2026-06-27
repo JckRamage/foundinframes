@@ -23,7 +23,7 @@ export default function PosterImage({ src, alt, sizes, priority = false, classNa
         alt={alt}
         fill
         sizes={sizes}
-        quality={75}
+        quality={88}
         priority={priority}
         className={`object-cover transition-opacity duration-300 ${loaded ? "opacity-100" : "opacity-0"} ${className}`}
         onLoad={() => setLoaded(true)}

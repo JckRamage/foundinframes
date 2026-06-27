@@ -6,7 +6,7 @@ watchedDate: '2025-02-14'
 publishedDate: '2025-02-15'
 letterboxdUrl: 'https://boxd.it/8PGkFF'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BNDRjY2E0ZmEtN2QwNi00NTEwLWI3MWItODNkMGYwYWFjNGE0XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/7/3/8/2/9/2/738292-captain-america-brave-new-world-0-600-0-900-crop.jpg?v=97dff5b720
 wordCount: 1180
 slug: captain-america-brave-new-world-2025
 excerpt: >-

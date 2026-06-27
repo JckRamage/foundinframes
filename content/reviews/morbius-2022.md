@@ -6,7 +6,7 @@ watchedDate: '2022-04-13'
 publishedDate: '2022-04-15'
 letterboxdUrl: 'https://boxd.it/2KLam1'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BY2UzYzFiZWUtOGU5ZC00YTIxLWFlNGUtMGU1YmI4OWUzN2FmXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/4/5/6/3/2/7/456327-morbius-0-600-0-900-crop.jpg?v=0139d15a49
 wordCount: 622
 slug: morbius-2022
 excerpt: >-

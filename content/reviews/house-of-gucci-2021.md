@@ -6,7 +6,7 @@ watchedDate: '2021-12-20'
 publishedDate: '2021-12-22'
 letterboxdUrl: 'https://boxd.it/2nEtjf'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BMmQ3OTRiYWItMGRiOC00ZTVmLWJjMjEtNjZhNDQ5NjIxODNjXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/5/7/0/1/9/3/570193-house-of-gucci-0-600-0-900-crop.jpg?v=5360fe0784
 wordCount: 678
 slug: house-of-gucci-2021
 excerpt: >-

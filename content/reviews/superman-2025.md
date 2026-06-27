@@ -6,7 +6,7 @@ watchedDate: '2025-07-11'
 publishedDate: '2025-07-13'
 letterboxdUrl: 'https://boxd.it/ajKbsj'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BOGMwZGJiM2EtMzEwZC00YTYzLWIxNzYtMmJmZWNlZjgxZTMwXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/9/5/7/0/5/0/957050-superman-2025-0-600-0-900-crop.jpg?v=54e41a55ff
 wordCount: 877
 slug: superman-2025
 excerpt: >-

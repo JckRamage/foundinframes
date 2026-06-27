@@ -6,7 +6,7 @@ watchedDate: '2021-07-30'
 publishedDate: '2021-08-01'
 letterboxdUrl: 'https://boxd.it/229QJz'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BMWU3Y2NlZmEtMjJjNS00ZWMxLWE1MzctYWYyMjMzMDdkNTE4XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/3/6/9/8/3/5/369835-the-suicide-squad-0-600-0-900-crop.jpg?v=8503fd610a
 wordCount: 1002
 slug: the-suicide-squad-2021
 excerpt: >-

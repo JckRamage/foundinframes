@@ -6,7 +6,7 @@ watchedDate: '2024-01-26'
 publishedDate: '2024-02-08'
 letterboxdUrl: 'https://boxd.it/5MDFQd'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BZDU2ZjBlOTUtMTIzMC00OWI0LTg2OTAtZmUxYTE2MzdhNzZlXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/8/9/5/2/9/0/895290-all-of-us-strangers-0-600-0-900-crop.jpg?v=6b8a3d00c7
 wordCount: 503
 slug: all-of-us-strangers-2023
 excerpt: >-

@@ -6,7 +6,7 @@ watchedDate: '2023-09-02'
 publishedDate: '2023-09-05'
 letterboxdUrl: 'https://boxd.it/4NI9ch'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BYWU2MjRjZTYtMjVkMS00MTBjLWFiMTAtYmZlYTk1YjkyMWFkXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/7/1/0/3/5/2/710352-poor-things-0-600-0-900-crop.jpg?v=a0f2ee9a0e
 wordCount: 549
 slug: poor-things-2023
 excerpt: >-

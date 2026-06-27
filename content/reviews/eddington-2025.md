@@ -6,7 +6,7 @@ watchedDate: '2025-08-18'
 publishedDate: '2025-08-22'
 letterboxdUrl: 'https://boxd.it/aOWQfD'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BNmM0Yzc1ZjAtZTg4My00NDI3LWEwMzAtY2ZkNzMxMWMwOTFlXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/5/7/4/5/9/5/574595-eddington-0-600-0-900-crop.jpg?v=925abc6d9b
 wordCount: 459
 slug: eddington-2025
 excerpt: >-

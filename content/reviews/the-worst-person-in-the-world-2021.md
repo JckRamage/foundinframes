@@ -6,7 +6,7 @@ watchedDate: '2022-03-03'
 publishedDate: '2022-03-05'
 letterboxdUrl: 'https://boxd.it/2Df6Sb'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BZGEyYzBiYmItZDM4OC00NTdmLWJlYzctODdiM2E2MjZmYTU2XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/5/8/5/2/5/8/585258-the-worst-person-in-the-world-0-600-0-900-crop.jpg?v=92bc344c27
 wordCount: 476
 slug: the-worst-person-in-the-world-2021
 excerpt: >-

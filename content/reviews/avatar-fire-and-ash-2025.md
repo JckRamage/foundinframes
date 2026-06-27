@@ -6,7 +6,7 @@ watchedDate: '2025-12-19'
 publishedDate: '2025-12-25'
 letterboxdUrl: 'https://boxd.it/ccQCQH'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BZDYxY2I1OGMtN2Y4MS00ZmU1LTgyNDAtODA0MzAyYjI0N2Y2XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/7/0/0/0/7/70007-avatar-fire-and-ash-0-600-0-900-crop.jpg?v=5d2f8b35b1
 wordCount: 420
 slug: avatar-fire-and-ash-2025
 excerpt: >-

@@ -6,7 +6,7 @@ watchedDate: '2023-11-18'
 publishedDate: '2023-11-24'
 letterboxdUrl: 'https://boxd.it/5cSQ4F'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BZDk2YjNhYzEtYzg2ZC00OWEwLWJhYzgtMGUzMWVjNDFmYzI5XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/6/1/9/5/1/0/619510-the-hunger-games-the-ballad-of-songbirds-snakes-0-600-0-900-crop.jpg?v=180f24b89f
 wordCount: 405
 slug: the-hunger-games-the-ballad-of-songbirds-and-snakes-2023
 excerpt: >-

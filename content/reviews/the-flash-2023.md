@@ -6,7 +6,7 @@ watchedDate: '2023-06-14'
 publishedDate: '2023-06-16'
 letterboxdUrl: 'https://boxd.it/4nFazV'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BYmE2NzBjNGUtNTJiMy00N2UxLWEyYzMtYzFjODFhMGZlOTgzXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/2/2/5/8/4/5/225845-the-flash-0-600-0-900-crop.jpg?v=be50db18ec
 wordCount: 584
 slug: the-flash-2023
 excerpt: >-

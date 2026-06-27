@@ -6,7 +6,7 @@ watchedDate: '2022-01-09'
 publishedDate: '2022-01-10'
 letterboxdUrl: 'https://boxd.it/2sFGZl'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BMWU5ZTBkMjQtMzg2Yi00ZmJlLTk4YWEtYTc0ZjU1YzE1NGNkXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/3/8/3/2/3/9/383239-jungle-cruise-0-600-0-900-crop.jpg?v=67190bb796
 wordCount: 428
 slug: jungle-cruise-2021
 excerpt: >-

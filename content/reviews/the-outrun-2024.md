@@ -6,7 +6,7 @@ watchedDate: '2024-08-15'
 publishedDate: '2024-08-17'
 letterboxdUrl: 'https://boxd.it/774SAJ'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BM2Q0YTliNDMtYjRiNC00ZWE2LTg5ZjktNGZhNWRiYTk2ZTFlXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/7/0/4/1/5/5/704155-the-outrun-0-600-0-900-crop.jpg?v=5727e4a6cc
 wordCount: 475
 slug: the-outrun-2024
 excerpt: >-

@@ -6,7 +6,7 @@ watchedDate: '2023-10-23'
 publishedDate: '2023-10-27'
 letterboxdUrl: 'https://boxd.it/53BiUR'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BY2JlMzg0NDktN2FmOC00ZGQwLWI0MDctMDgzZjk0NzMxZWYwXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/1/0/6/4/4/2/7/1064427-the-continental-from-the-world-of-john-wick-0-600-0-900-crop.jpg?v=8805996c02
 wordCount: 402
 slug: the-continental-from-the-world-of-john-wick-2023
 excerpt: >-

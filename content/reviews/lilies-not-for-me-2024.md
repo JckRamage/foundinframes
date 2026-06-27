@@ -6,7 +6,7 @@ watchedDate: '2024-08-17'
 publishedDate: '2024-08-18'
 letterboxdUrl: 'https://boxd.it/77twuT'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BNTg5Njc2ZjUtN2QwOC00MjdiLWJjYmQtYTc0MDg3OGE4Y2ExXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/1/1/9/6/1/9/1/1196191-lilies-not-for-me-0-600-0-900-crop.jpg?v=adbc2a9dd4
 wordCount: 1129
 slug: lilies-not-for-me-2024
 excerpt: >-

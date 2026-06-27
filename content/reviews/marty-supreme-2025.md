@@ -6,7 +6,7 @@ watchedDate: '2025-12-28'
 publishedDate: '2025-12-29'
 letterboxdUrl: 'https://boxd.it/ci59RL'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BZTRhYjI1MTItMWYwMi00MjY5LWI1OTktMzQwNzA3MWJlN2QyXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/1/1/9/7/4/9/9/1197499-marty-supreme-0-600-0-900-crop.jpg?v=b14a26bb43
 wordCount: 660
 slug: marty-supreme-2025
 excerpt: >-

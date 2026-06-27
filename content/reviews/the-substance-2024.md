@@ -6,7 +6,7 @@ watchedDate: '2024-10-22'
 publishedDate: '2024-10-29'
 letterboxdUrl: 'https://boxd.it/7FGCtp'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BZDQ1NGE5MGMtYzdlZC00ODExLWJlMDMtNWU4NjA5OWYwMDEwXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-600-0-900-crop.jpg?v=ab9e1072f8
 wordCount: 900
 slug: the-substance-2024
 excerpt: >-

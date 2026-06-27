@@ -6,7 +6,7 @@ watchedDate: '2026-01-23'
 publishedDate: '2026-01-26'
 letterboxdUrl: 'https://boxd.it/cPu8hJ'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BMjg3NzY0N2ItZGFlMy00NzAzLTk2NjItMDk2YTU3ZWU0MDA1XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/5/6/5/9/5/2/565952-no-other-choice-2025-0-600-0-900-crop.jpg?v=87ef42b9f5
 wordCount: 691
 slug: no-other-choice-2025
 excerpt: >-

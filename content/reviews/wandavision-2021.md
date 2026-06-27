@@ -6,7 +6,7 @@ watchedDate: '2021-03-05'
 publishedDate: '2021-03-06'
 letterboxdUrl: 'https://boxd.it/1HGsCL'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BZTMxMmM1ODItMTZiMS00NjI1LWEwODctMjQ4ZjY4ODliNDI0XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/6/7/1/8/1/3/671813-wandavision-0-600-0-900-crop.jpg?v=e38b6290c0
 wordCount: 577
 slug: wandavision-2021
 excerpt: >-

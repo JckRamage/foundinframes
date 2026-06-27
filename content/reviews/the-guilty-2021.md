@@ -6,7 +6,7 @@ watchedDate: '2021-09-29'
 publishedDate: '2021-10-03'
 letterboxdUrl: 'https://boxd.it/2b4OlB'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BZmVjNzM0YmItZGQwYy00MzA4LTkwYjAtMmJkNWVmOTRkZGRkXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/4/9/6/1/9/8/496198-the-guilty-0-600-0-900-crop.jpg?v=3b0d782f54
 wordCount: 648
 slug: the-guilty-2021
 excerpt: >-

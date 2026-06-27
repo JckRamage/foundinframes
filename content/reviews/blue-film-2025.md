@@ -6,7 +6,7 @@ watchedDate: '2025-08-15'
 publishedDate: '2025-08-19'
 letterboxdUrl: 'https://boxd.it/aMDSkf'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BNjViNDhlN2EtZTMxNy00ZThhLTlhMmYtNmM4OWJiM2E0YjYzXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/1/2/8/2/4/2/3/1282423-blue-film-2025-0-600-0-900-crop.jpg?v=8295b01b96
 wordCount: 588
 slug: blue-film-2025
 excerpt: >-

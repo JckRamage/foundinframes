@@ -6,7 +6,7 @@ watchedDate: '2024-06-30'
 publishedDate: '2024-07-07'
 letterboxdUrl: 'https://boxd.it/6OHO4h'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BMjZmZGY1MzMtNDVkNi00NjE2LTlkMzMtMmUzNWExY2ExZWI2XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/9/2/8/2/6/1/928261-kinds-of-kindness-0-600-0-900-crop.jpg?v=719ff64e2b
 wordCount: 619
 slug: kinds-of-kindness-2024
 excerpt: >-

@@ -6,7 +6,7 @@ watchedDate: '2022-09-02'
 publishedDate: '2022-09-04'
 letterboxdUrl: 'https://boxd.it/3bZvOr'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BNDgxNjdhZWMtYjNjMi00YTE3LTg1OTItMTU5NmViMDRjNDg5XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/6/0/9/7/6/1/609761-bardo-false-chronicle-of-a-handful-of-truths-0-600-0-900-crop.jpg?v=2dd9b5d0eb
 wordCount: 506
 slug: bardo-false-chronicle-of-a-handful-of-truths-2022
 excerpt: >-

@@ -6,7 +6,7 @@ watchedDate: '2026-02-24'
 publishedDate: '2026-02-27'
 letterboxdUrl: 'https://boxd.it/djt51B'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BZjQ4Y2QzOTgtODQ5MS00ZjVkLWEwOGUtNDZhYzJjODIzOTIwXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/1/3/0/1/7/0/4/1301704-the-moment-2026-0-600-0-900-crop.jpg?v=b001663404
 wordCount: 1752
 slug: the-moment-2026
 excerpt: >-

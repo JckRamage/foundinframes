@@ -6,7 +6,7 @@ watchedDate: '2024-10-19'
 publishedDate: '2024-10-22'
 letterboxdUrl: 'https://boxd.it/7BUebD'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BNTRlNmU1NzEtODNkNC00ZGM3LWFmNzQtMjBlMWRiYTcyMGRhXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/8/0/0/8/5/8/800858-joker-folie-a-deux-0-600-0-900-crop.jpg?v=a4bf0389e2
 wordCount: 1018
 slug: joker-folie-a-deux-2024
 excerpt: >-

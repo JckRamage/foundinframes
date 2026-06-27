@@ -6,7 +6,7 @@ watchedDate: '2021-10-10'
 publishedDate: '2021-10-12'
 letterboxdUrl: 'https://boxd.it/2cvlAb'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BMTU1YmNkZWYtYmExNC00YWE1LTk2NWEtMTQ2ODhmYTA5MmZiXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/4/7/1/2/0/7/471207-the-french-dispatch-of-the-liberty-kansas-0-600-0-900-crop.jpg?v=e344a82574
 wordCount: 1065
 slug: the-french-dispatch-of-the-liberty-kansas-evening-sun-2021
 excerpt: >-

@@ -6,7 +6,7 @@ watchedDate: '2023-08-02'
 publishedDate: '2023-08-05'
 letterboxdUrl: 'https://boxd.it/4DZG0x'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BNmYzYzA2NzMtOTVmMC00ZDY4LThlMDctZmUyN2NlMjQ2ODViXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/1/0/2/9/5/9/0/1029590-secret-invasion-0-600-0-900-crop.jpg?v=cdb1dc5c04
 wordCount: 474
 slug: secret-invasion-2023
 excerpt: >-

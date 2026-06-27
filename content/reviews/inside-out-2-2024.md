@@ -6,7 +6,7 @@ watchedDate: '2024-06-20'
 publishedDate: '2024-06-22'
 letterboxdUrl: 'https://boxd.it/6IEYKx'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BYWY3MDE2Y2UtOTE3Zi00MGUzLTg2MTItZjE1ZWVkMGVlODRmXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/9/2/1/5/7/8/921578-inside-out-2-0-600-0-900-crop.jpg?v=efa25e5cca
 wordCount: 506
 slug: inside-out-2-2024
 excerpt: >-

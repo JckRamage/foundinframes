@@ -6,7 +6,7 @@ watchedDate: '2021-08-13'
 publishedDate: '2021-08-15'
 letterboxdUrl: 'https://boxd.it/24hzy9'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BN2I0MGMxYjUtZTZiMS00MzMxLTkzNWYtMDUyZmUwY2ViYTljXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/4/7/9/8/1/4/479814-free-guy-0-600-0-900-crop.jpg?v=0cd7303445
 wordCount: 635
 slug: free-guy-2021
 excerpt: >-

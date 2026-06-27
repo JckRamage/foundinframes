@@ -6,7 +6,7 @@ watchedDate: '2021-04-23'
 publishedDate: '2021-04-25'
 letterboxdUrl: 'https://boxd.it/1OFUwn'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BYmJkOGNlNmEtMmQyOS00YjZiLTgxM2EtNmEzNzUzNTU5ODYwXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/6/7/1/8/1/4/671814-the-falcon-and-the-winter-soldier-0-600-0-900-crop.jpg?v=f5c479cf03
 wordCount: 688
 slug: the-falcon-and-the-winter-soldier-2021
 excerpt: >-

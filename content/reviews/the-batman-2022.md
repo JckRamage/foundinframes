@@ -6,7 +6,7 @@ watchedDate: '2022-03-04'
 publishedDate: '2022-03-05'
 letterboxdUrl: 'https://boxd.it/2DjwOH'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BMmU5NGJlMzAtMGNmOC00YjJjLTgyMzUtNjAyYmE4Njg5YWMyXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/3/4/8/9/1/4/348914-the-batman-0-600-0-900-crop.jpg?v=ec12a8b7ce
 wordCount: 1431
 slug: the-batman-2022
 excerpt: >-

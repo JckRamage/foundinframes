@@ -6,7 +6,7 @@ watchedDate: '2023-10-21'
 publishedDate: '2023-10-25'
 letterboxdUrl: 'https://boxd.it/533lth'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BYWQ3NmQxZTEtNDc2MS00ODExLWE3ZDEtZTU2N2Y2NjAyNmY5XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/1/0/5/5/4/3/0/1055430-ahsoka-0-600-0-900-crop.jpg?v=b8ec715c15
 wordCount: 550
 slug: ahsoka-2023
 excerpt: >-

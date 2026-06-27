@@ -6,7 +6,7 @@ watchedDate: '2021-07-12'
 publishedDate: '2021-07-12'
 letterboxdUrl: 'https://boxd.it/1ZjepJ'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BZTU5ZjRiNDctZWJkMy00NWIxLTgzMTAtZGYzODU5NTIyMzlmXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/5/8/9/0/9/3/589093-shiva-baby-0-600-0-900-crop.jpg?v=a258215f88
 wordCount: 577
 slug: shiva-baby-2020
 excerpt: >-

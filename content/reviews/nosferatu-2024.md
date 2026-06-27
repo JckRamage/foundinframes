@@ -6,7 +6,7 @@ watchedDate: '2025-01-01'
 publishedDate: '2025-01-04'
 letterboxdUrl: 'https://boxd.it/8jdkfV'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BY2FhZGE3NmEtNWJjOC00NDI1LWFhMTQtMjcxNmQzZmEwNGIzXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/3/5/9/5/0/5/359505-nosferatu-2024-0-600-0-900-crop.jpg?v=a12d4ad648
 wordCount: 730
 slug: nosferatu-2024
 excerpt: >-

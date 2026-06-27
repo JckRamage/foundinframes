@@ -6,7 +6,7 @@ watchedDate: '2024-09-19'
 publishedDate: '2024-09-20'
 letterboxdUrl: 'https://boxd.it/7mKLut'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BZWI1ZDY1YTQtMjRkNy00ZDZhLWE3OTItMTIwNzliY2Y1MTZhXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/6/2/2/4/1/3/622413-transformers-one-0-600-0-900-crop.jpg?v=b86bf0cdb6
 wordCount: 722
 slug: transformers-one-2024
 excerpt: >-

@@ -6,7 +6,7 @@ watchedDate: '2023-08-18'
 publishedDate: '2023-08-19'
 letterboxdUrl: 'https://boxd.it/4IGson'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BMDU3OTkxZWYtZjUyNy00ZDVmLWJiMGUtODFhMjNiNjE3MjYzXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/9/2/5/3/2/8/925328-silent-roar-0-600-0-900-crop.jpg?v=489b2bf1c3
 wordCount: 539
 slug: silent-roar-2023
 excerpt: >-

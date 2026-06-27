@@ -6,7 +6,7 @@ watchedDate: '2022-09-01'
 publishedDate: '2022-09-02'
 letterboxdUrl: 'https://boxd.it/3bCsJ3'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BMDVmYTZmODMtNDU4YS00MzExLThmZTItOTM1ZDRiNmFmYWVhXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/6/6/6/2/6/9/666269-white-noise-0-600-0-900-crop.jpg?v=26c36ea2f6
 wordCount: 498
 slug: white-noise-2022
 excerpt: >-

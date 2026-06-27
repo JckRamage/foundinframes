@@ -15,7 +15,7 @@ export default function ReviewPosterCard({ review, priority = false }: ReviewPos
           <PosterImage
             src={review.posterUrl}
             alt={`${review.title} poster`}
-            sizes="(min-width: 1024px) 280px, (min-width: 768px) 33vw, 50vw"
+            sizes="(min-width: 1024px) 320px, (min-width: 768px) 33vw, 50vw"
             priority={priority}
             className="transition duration-500 group-hover:scale-105"
           />

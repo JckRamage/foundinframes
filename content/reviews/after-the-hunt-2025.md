@@ -6,7 +6,7 @@ watchedDate: '2025-10-11'
 publishedDate: '2025-10-20'
 letterboxdUrl: 'https://boxd.it/bqfnS3'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BMzYyOTAwODEtZTY4My00MjVkLWJjYjUtMjE2N2UzYTE3MTY3XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/1/1/4/9/1/4/0/1149140-after-the-hunt-2025-0-600-0-900-crop.jpg?v=8a38a79f2c
 wordCount: 493
 slug: after-the-hunt-2025
 excerpt: >-

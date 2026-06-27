@@ -6,7 +6,7 @@ watchedDate: '2021-07-29'
 publishedDate: '2021-07-30'
 letterboxdUrl: 'https://boxd.it/21WSnz'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BYmUyNzY2YWYtNWQ0My00ODMwLTkwOTQtOTA0ZjM0MjRmYjJiXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/5/1/5/9/0/9/515909-the-tomorrow-war-0-600-0-900-crop.jpg?v=a106f74fd4
 wordCount: 614
 slug: the-tomorrow-war-2021
 excerpt: >-

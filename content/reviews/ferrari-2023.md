@@ -6,7 +6,7 @@ watchedDate: '2023-09-01'
 publishedDate: '2023-09-03'
 letterboxdUrl: 'https://boxd.it/4N90zB'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BYmUzYmJiMDMtZjIxNy00ZjBlLThjZDMtMDA1ZDM4MWMwNmI0XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/3/0/1/5/5/2/301552-ferrari-0-600-0-900-crop.jpg?v=dec8f086d1
 wordCount: 426
 slug: ferrari-2023
 excerpt: >-

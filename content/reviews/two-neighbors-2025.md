@@ -6,7 +6,7 @@ watchedDate: '2025-08-15'
 publishedDate: '2025-08-20'
 letterboxdUrl: 'https://boxd.it/aNnydZ'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BODg0NTRhOGItMzFlOC00MzNhLTg2MzUtNWNmMWYyYzgyYWQyXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/1/0/8/7/7/4/2/1087742-two-neighbors-0-600-0-900-crop.jpg?v=7b29d2b8ec
 wordCount: 576
 slug: two-neighbors-2025
 excerpt: >-

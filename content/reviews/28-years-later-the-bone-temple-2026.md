@@ -6,7 +6,7 @@ watchedDate: '2026-01-19'
 publishedDate: '2026-01-26'
 letterboxdUrl: 'https://boxd.it/cOZd7x'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BZGU2M2Y1YTItMWYxNS00NDYxLThhOTYtNjNhOWUzNjA3MTYwXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/1/1/5/6/4/0/9/1156409-28-years-later-the-bone-temple-0-600-0-900-crop.jpg?v=131058c6ff
 wordCount: 488
 slug: 28-years-later-the-bone-temple-2026
 excerpt: >-

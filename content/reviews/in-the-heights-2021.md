@@ -6,7 +6,7 @@ watchedDate: '2021-06-23'
 publishedDate: '2021-06-25'
 letterboxdUrl: 'https://boxd.it/1WSldt'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BOGUwODk5ZmItMjUzMi00YmYyLTk3NzgtNGVmYTI3MmJhYmY1XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/3/9/9/5/0/0/399500-in-the-heights-0-600-0-900-crop.jpg?v=f626d78385
 wordCount: 485
 slug: in-the-heights-2021
 excerpt: >-

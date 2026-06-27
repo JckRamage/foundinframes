@@ -1,12 +1,8 @@
 const REVIEWS_PER_PAGE = 24
 
-export function getOptimizedPosterUrl(posterUrl: string, width = 400): string {
-  if (posterUrl.includes("m.media-amazon.com") && posterUrl.includes("._V1_.")) {
-    return posterUrl.replace("._V1_.", `._UX${width}_V1_.`)
-  }
-
-  if (posterUrl.includes("a.ltrbxd.com/resized/film-poster/") && posterUrl.includes("-600-0-900-")) {
-    return posterUrl.replace("-600-0-900-", "-230-0-345-")
+export function getOptimizedPosterUrl(posterUrl: string): string {
+  if (posterUrl.includes("a.ltrbxd.com/resized/film-poster/") && posterUrl.includes("-230-0-345-")) {
+    return posterUrl.replace("-230-0-345-", "-600-0-900-")
   }
 
   return posterUrl

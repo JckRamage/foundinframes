@@ -6,7 +6,7 @@ watchedDate: '2021-10-11'
 publishedDate: '2021-10-15'
 letterboxdUrl: 'https://boxd.it/2cRs1V'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BNzgyMzA2NDEtZWUxNy00MDNmLTllMDYtNzZmNTU5ZWVmMzhlXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/5/2/7/8/4/1/527841-the-power-of-the-dog-0-600-0-900-crop.jpg?v=811bdc6195
 wordCount: 769
 slug: the-power-of-the-dog-2021
 excerpt: >-

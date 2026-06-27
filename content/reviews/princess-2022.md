@@ -6,7 +6,7 @@ watchedDate: '2022-08-31'
 publishedDate: '2022-09-01'
 letterboxdUrl: 'https://boxd.it/3bu70P'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BNDY3YjFmZGMtYTY4ZS00NTc1LWE5ZGUtNDAyNWYxZDBhZGI5XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/8/4/1/2/3/4/841234-princess-0-600-0-900-crop.jpg?v=695cdf29e3
 wordCount: 605
 slug: princess-2022
 excerpt: >-

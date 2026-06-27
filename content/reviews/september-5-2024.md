@@ -6,7 +6,7 @@ watchedDate: '2025-02-03'
 publishedDate: '2025-02-04'
 letterboxdUrl: 'https://boxd.it/8J23nb'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BOWUxY2YyYzctYWY3Yi00ZGJjLTkzMDktZjYzMTIzZjNhNmM2XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/1/0/9/5/7/1/8/1095718-september-5-0-600-0-900-crop.jpg?v=d70c1a941c
 wordCount: 797
 slug: september-5-2024
 excerpt: >-

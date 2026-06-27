@@ -6,7 +6,7 @@ watchedDate: '2021-09-07'
 publishedDate: '2021-09-08'
 letterboxdUrl: 'https://boxd.it/27Llff'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BN2I3ZjI4NGYtMzAzNi00NmYzLTgyYmEtMzJjMjdhMjRkNmNjXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/3/5/7/8/2/6/357826-annette-0-600-0-900-crop.jpg?v=de5f3a74c8
 wordCount: 849
 slug: annette-2021
 excerpt: >-

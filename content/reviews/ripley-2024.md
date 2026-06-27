@@ -6,7 +6,7 @@ watchedDate: '2024-08-31'
 publishedDate: '2024-09-01'
 letterboxdUrl: 'https://boxd.it/7ebJaJ'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BMmI0NzgyY2ItODVmMy00YzQzLWI3ODAtMzExZDMxYWU0YmZhXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/1/1/4/1/3/2/0/1141320-ripley-0-600-0-900-crop.jpg?v=6992c33fc4
 wordCount: 498
 slug: ripley-2024
 excerpt: >-

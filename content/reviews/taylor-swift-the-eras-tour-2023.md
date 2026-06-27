@@ -6,7 +6,7 @@ watchedDate: '2023-10-19'
 publishedDate: '2023-10-22'
 letterboxdUrl: 'https://boxd.it/521vuV'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BM2EzMzU3NTEtOWI3NC00N2VjLWFlZTMtMmJjNDc3ZWRjZTk4XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/1/0/4/6/2/2/7/1046227-taylor-swift-the-eras-tour-0-600-0-900-crop.jpg?v=e9a1d6d57d
 wordCount: 537
 slug: taylor-swift-the-eras-tour-2023
 excerpt: >-

@@ -6,7 +6,7 @@ watchedDate: '2021-08-11'
 publishedDate: '2021-08-15'
 letterboxdUrl: 'https://boxd.it/24eZM1'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BMDkyOGM4MDMtZWU4ZS00YWMxLTgzNjAtYzI4M2Y1ODA4YWJlXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/3/1/4/8/8/3/314883-space-jam-a-new-legacy-0-600-0-900-crop.jpg?v=c640006c01
 wordCount: 552
 slug: space-jam-a-new-legacy-2021
 excerpt: >-

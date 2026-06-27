@@ -6,7 +6,7 @@ watchedDate: '2022-09-05'
 publishedDate: '2022-09-07'
 letterboxdUrl: 'https://boxd.it/3cFxVN'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BYmNhOWMyNTYtNTljNC00NTU3LWFiYmQtMDBhOGU5NWFhNGU5XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/7/0/3/4/7/8/703478-the-whale-0-600-0-900-crop.jpg?v=84e98165fb
 wordCount: 589
 slug: the-whale-2022
 excerpt: >-

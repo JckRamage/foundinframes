@@ -6,7 +6,7 @@ watchedDate: '2023-09-06'
 publishedDate: '2023-09-07'
 letterboxdUrl: 'https://boxd.it/4OvC8V'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BMmE5YTBlMDAtZDFjZi00NjQ5LWJkNWUtMzJhMmYzYWQyZDA4XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/6/7/4/1/3/5/674135-origin-0-600-0-900-crop.jpg?v=47041f0233
 wordCount: 461
 slug: origin-2023
 excerpt: >-

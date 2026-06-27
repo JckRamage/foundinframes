@@ -6,7 +6,7 @@ watchedDate: '2022-08-20'
 publishedDate: '2022-08-22'
 letterboxdUrl: 'https://boxd.it/39Dy1Z'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BMWM2MDBkMTQtYWUxNS00NmI3LTg2ZGUtNjI4MzdiM2U1NTYwXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/5/1/3/2/0/6/513206-after-yang-0-600-0-900-crop.jpg?v=a7b081cba8
 wordCount: 717
 slug: after-yang-2021
 excerpt: >-

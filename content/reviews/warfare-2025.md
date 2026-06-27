@@ -6,7 +6,7 @@ watchedDate: '2025-04-18'
 publishedDate: '2025-04-20'
 letterboxdUrl: 'https://boxd.it/9sjdZX'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BYzEyYjE1NmEtOTFmNy00ZmQxLThlYzctOGRjNmQ0N2VjMmNmXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/1/1/2/4/7/0/1/1124701-warfare-0-600-0-900-crop.jpg?v=f379233a1b
 wordCount: 573
 slug: warfare-2025
 excerpt: >-

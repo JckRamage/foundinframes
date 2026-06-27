@@ -6,7 +6,7 @@ watchedDate: '2023-09-02'
 publishedDate: '2023-09-05'
 letterboxdUrl: 'https://boxd.it/4NHOcZ'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BNDY5OTYzMDYtOTFiOC00NDE5LTkxZmQtNmQ2ZGJlYWY5M2I3XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/9/1/3/2/4/9/913249-finally-dawn-0-600-0-900-crop.jpg?v=3b951a6284
 wordCount: 450
 slug: finally-dawn-2023
 excerpt: >-

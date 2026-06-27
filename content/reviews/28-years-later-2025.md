@@ -6,7 +6,7 @@ watchedDate: '2025-06-21'
 publishedDate: '2025-06-23'
 letterboxdUrl: 'https://boxd.it/a5xziv'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BNjgwYTI0YjctMWYzNS00MmI1LWI5YTctNmE1YjBkNDFlNWMxXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/9/9/2/7/8/6/992786-28-years-later-0-600-0-900-crop.jpg?v=014e09c066
 wordCount: 467
 slug: 28-years-later-2025
 excerpt: >-

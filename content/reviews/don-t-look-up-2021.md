@@ -6,7 +6,7 @@ watchedDate: '2021-12-24'
 publishedDate: '2021-12-25'
 letterboxdUrl: 'https://boxd.it/2oiIcD'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BMjhhNWFjNzctYTJjOS00MDc0LThiNjItZmM0ZDVmMWViY2UzXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/5/7/2/2/5/5/572255-don-t-look-up-0-600-0-900-crop.jpg?v=a58cc4aba2
 wordCount: 616
 slug: don-t-look-up-2021
 excerpt: >-

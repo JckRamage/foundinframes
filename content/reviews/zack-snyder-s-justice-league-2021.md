@@ -6,7 +6,7 @@ watchedDate: '2021-03-18'
 publishedDate: '2021-03-19'
 letterboxdUrl: 'https://boxd.it/1JpTiR'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BNDA0MzM5YTctZTU2My00NGQ5LWE2NTEtNDM0MjZmMDBkOTZkXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/7/0/9/5/3/0/709530-zack-snyder-s-justice-league-0-600-0-900-crop.jpg?v=2262a9fbc3
 wordCount: 1223
 slug: zack-snyder-s-justice-league-2021
 excerpt: >-

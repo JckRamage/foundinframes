@@ -6,7 +6,7 @@ watchedDate: '2022-01-05'
 publishedDate: '2022-01-08'
 letterboxdUrl: 'https://boxd.it/2rXlRx'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BZGZiNDFkNDgtNDlmNS00NzZmLTg4MmItMzJkYjdmMjJkZDliXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/5/4/4/3/8/0/544380-the-last-duel-0-600-0-900-crop.jpg?v=b3cf1ae7a1
 wordCount: 470
 slug: the-last-duel-2021
 excerpt: >-

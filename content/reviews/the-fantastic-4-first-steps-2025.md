@@ -6,7 +6,7 @@ watchedDate: '2025-07-24'
 publishedDate: '2025-07-25'
 letterboxdUrl: 'https://boxd.it/asNEXn'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BOGM5MzA3MDAtYmEwMi00ZDNiLTg4MDgtMTZjOTc0ZGMyNTIwXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/5/4/3/9/6/7/543967-the-fantastic-four-first-steps-0-600-0-900-crop.jpg?v=ab7c919b04
 wordCount: 712
 slug: the-fantastic-4-first-steps-2025
 excerpt: >-

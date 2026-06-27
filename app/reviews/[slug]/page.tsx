@@ -56,7 +56,7 @@ export default async function ReviewPage({ params }: ReviewPageProps) {
           <div className="sticky top-28">
             <div className="relative aspect-[2/3] overflow-hidden rounded-3xl border-4 border-ink/10 bg-ink/10 shadow-2xl">
               <Image
-                src={getOptimizedPosterUrl(review.posterUrl, 600)}
+                src={getOptimizedPosterUrl(review.posterUrl)}
                 alt={`${review.title} poster`}
                 fill
                 sizes="(min-width: 768px) 320px, 100vw"

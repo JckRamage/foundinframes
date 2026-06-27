@@ -6,7 +6,7 @@ watchedDate: '2022-01-01'
 publishedDate: '2022-01-04'
 letterboxdUrl: 'https://boxd.it/2r4opr'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BYjU5MjRiOWMtNmI0OC00ZTU1LThlNGItYTViNzU2YzAzMWMxXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/6/4/1/0/8/6/641086-licorice-pizza-0-600-0-900-crop.jpg?v=6f08c3828c
 wordCount: 780
 slug: licorice-pizza-2021
 excerpt: >-

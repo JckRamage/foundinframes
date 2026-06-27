@@ -6,7 +6,7 @@ watchedDate: '2022-01-28'
 publishedDate: '2022-01-30'
 letterboxdUrl: 'https://boxd.it/2x1wRr'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BOGU1MmMyNTMtMGE3Ni00N2E0LWFlYjEtMDIwNDk5NzUyODAzXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/6/9/6/6/3/0/696630-belfast-0-600-0-900-crop.jpg?v=d286601381
 wordCount: 459
 slug: belfast-2021
 excerpt: >-

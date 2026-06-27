@@ -6,7 +6,7 @@ watchedDate: '2021-05-10'
 publishedDate: '2021-05-11'
 letterboxdUrl: 'https://boxd.it/1QZfev'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BNzAyOWNiMjAtNWUzMi00ZDk1LWE5NzYtNDUzMWE1Y2M0NDM2XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/4/3/1/8/8/8/431888-the-mitchells-vs-the-machines-0-600-0-900-crop.jpg?v=d3be38052a
 wordCount: 444
 slug: the-mitchells-vs-the-machines-2021
 excerpt: >-

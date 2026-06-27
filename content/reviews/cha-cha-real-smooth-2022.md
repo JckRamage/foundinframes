@@ -6,7 +6,7 @@ watchedDate: '2022-06-20'
 publishedDate: '2022-06-21'
 letterboxdUrl: 'https://boxd.it/2WPaoH'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BNWVjOWQ1YzEtMDVhNS00MTk1LTg1MGQtMzgyYzE5Mzc5ZWVlXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/7/3/0/7/9/8/730798-cha-cha-real-smooth-0-600-0-900-crop.jpg?v=6d120a326b
 wordCount: 402
 slug: cha-cha-real-smooth-2022
 excerpt: >-

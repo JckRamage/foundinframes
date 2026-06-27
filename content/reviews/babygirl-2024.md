@@ -6,7 +6,7 @@ watchedDate: '2025-01-06'
 publishedDate: '2025-01-11'
 letterboxdUrl: 'https://boxd.it/8qkRmR'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BMmUwODYwODAtYWZkZS00YmUwLWFmMWEtOGNjMjE2NDk3OWIwXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/9/8/9/1/2/5/989125-babygirl-2024-0-600-0-900-crop.jpg?v=b175884970
 wordCount: 727
 slug: babygirl-2024
 excerpt: >-

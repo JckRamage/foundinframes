@@ -6,7 +6,7 @@ watchedDate: '2022-05-04'
 publishedDate: '2022-05-05'
 letterboxdUrl: 'https://boxd.it/2Op1rX'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BNDAzNmYwZjgtNDc3YS00ZDMyLTk0MjktMTg4MGNmNGU3MjlhXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/8/3/9/7/7/4/839774-moon-knight-0-600-0-900-crop.jpg?v=f14eaf5f80
 wordCount: 538
 slug: moon-knight-2022
 excerpt: >-

@@ -6,7 +6,7 @@ watchedDate: '2025-10-11'
 publishedDate: '2025-10-23'
 letterboxdUrl: 'https://boxd.it/bsiaH1'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BMDQ5ZmY0OWYtOTYzZi00Mzg5LWE3N2EtMjYwZTAzZmJhYjkyXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/7/7/2/2/3/2/772232-hamnet-0-600-0-900-crop.jpg?v=631489314d
 wordCount: 856
 slug: hamnet-2025
 excerpt: >-

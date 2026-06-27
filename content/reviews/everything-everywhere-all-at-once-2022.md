@@ -6,7 +6,7 @@ watchedDate: '2022-05-24'
 publishedDate: '2022-05-26'
 letterboxdUrl: 'https://boxd.it/2Sa94N'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BOWNmMzAzZmQtNDQ1NC00Nzk5LTkyMmUtNGI2N2NkOWM4MzEyXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/4/7/4/4/7/4/474474-everything-everywhere-all-at-once-0-600-0-900-crop.jpg?v=281f1a041e
 wordCount: 1023
 slug: everything-everywhere-all-at-once-2022
 excerpt: >-

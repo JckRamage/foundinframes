@@ -6,7 +6,7 @@ watchedDate: '2023-07-12'
 publishedDate: '2023-07-14'
 letterboxdUrl: 'https://boxd.it/4vNm9D'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BN2U4OTdmM2QtZTkxYy00ZmQyLTg2N2UtMDdmMGJmNDhlZDU1XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/5/0/3/4/0/2/503402-mission-impossible-dead-reckoning-part-one-0-600-0-900-crop.jpg?v=34b8b35ec9
 wordCount: 939
 slug: mission-impossible-dead-reckoning-2023
 excerpt: >-

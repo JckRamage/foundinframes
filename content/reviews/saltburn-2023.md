@@ -6,7 +6,7 @@ watchedDate: '2023-10-04'
 publishedDate: '2023-10-08'
 letterboxdUrl: 'https://boxd.it/4XACBJ'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BZjk4NGE3MWItMDRhMy00YzhiLTk0MGUtZDlkNmQxYWIxYzc2XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/8/3/5/7/7/4/835774-saltburn-0-600-0-900-crop.jpg?v=b58cbd3b08
 wordCount: 570
 slug: saltburn-2023
 excerpt: >-

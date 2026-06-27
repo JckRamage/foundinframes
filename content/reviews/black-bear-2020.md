@@ -6,7 +6,7 @@ watchedDate: '2021-08-28'
 publishedDate: '2021-08-29'
 letterboxdUrl: 'https://boxd.it/26lxx5'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BZTBhYjZmMDEtN2IxMS00N2MwLWI4ZDItM2MxMDY5MjUzYjBlXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/5/5/1/4/0/0/551400-black-bear-0-600-0-900-crop.jpg?v=915f65548f
 wordCount: 534
 slug: black-bear-2020
 excerpt: >-

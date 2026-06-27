@@ -6,7 +6,7 @@ watchedDate: '2021-04-13'
 publishedDate: '2021-04-14'
 letterboxdUrl: 'https://boxd.it/1NdqrR'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BNDE1NjU2NTMyNV5BMl5BanBnXkFtZTcwMTg3NDA3MQ@@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/4/4/9/1/9/44919-high-school-musical-3-senior-year-0-600-0-900-crop.jpg?v=1e36cf34cc
 wordCount: 411
 slug: high-school-musical-3-senior-year-2008
 excerpt: >-

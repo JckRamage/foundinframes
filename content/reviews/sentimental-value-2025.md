@@ -6,7 +6,7 @@ watchedDate: '2025-10-12'
 publishedDate: '2025-10-23'
 letterboxdUrl: 'https://boxd.it/bsj08n'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BNTMwMTk0Y2QtY2VhNy00OGYwLThkMjMtZjkwMGI3MTJiMjAyXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/1/0/1/3/3/5/7/1013357-sentimental-value-2025-0-600-0-900-crop.jpg?v=e89e64a309
 wordCount: 529
 slug: sentimental-value-2025
 excerpt: >-

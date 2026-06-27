@@ -6,7 +6,7 @@ watchedDate: '2022-07-07'
 publishedDate: '2022-07-09'
 letterboxdUrl: 'https://boxd.it/309Ebb'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BZjRiMDhiZjQtNjk5Yi00ZDcwLTkyYTEtMDc1NjdmNjFhNGIzXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/5/4/3/0/0/2/543002-thor-love-and-thunder-0-600-0-900-crop.jpg?v=bc6277fe76
 wordCount: 827
 slug: thor-love-and-thunder-2022
 excerpt: >-

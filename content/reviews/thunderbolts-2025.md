@@ -6,7 +6,7 @@ watchedDate: '2025-05-01'
 publishedDate: '2025-05-03'
 letterboxdUrl: 'https://boxd.it/9ABPVd'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BNDIzNGUwZmYtODM0Yy00NjA3LTgxOGUtOTY0ZGM5MjBkM2I3XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/8/8/7/6/5/3/887653-thunderbolts-0-600-0-900-crop.jpg?v=80380bc773
 wordCount: 819
 slug: thunderbolts-2025
 excerpt: >-

@@ -6,7 +6,7 @@ watchedDate: '2023-02-18'
 publishedDate: '2023-02-19'
 letterboxdUrl: 'https://boxd.it/3SdBOt'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BMThkYWY5ZjQtYjJlMS00MDFmLWFkYzEtODEzZjg5YWFmMGY4XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/5/6/6/2/3/7/566237-ant-man-and-the-wasp-quantumania-0-600-0-900-crop.jpg?v=27ced3fac4
 wordCount: 813
 slug: ant-man-and-the-wasp-quantumania-2023
 excerpt: >-

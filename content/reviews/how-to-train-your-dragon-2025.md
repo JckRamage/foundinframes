@@ -6,7 +6,7 @@ watchedDate: '2025-06-10'
 publishedDate: '2025-06-11'
 letterboxdUrl: 'https://boxd.it/9YbbHz'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BODA5Y2M0NjctNWQzMy00ODRhLWE0MzUtYmE1YTAzZjYyYmQyXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/9/8/0/1/1/6/980116-how-to-train-your-dragon-2025-0-600-0-900-crop.jpg?v=0d82dfeab8
 wordCount: 501
 slug: how-to-train-your-dragon-2025
 excerpt: >-

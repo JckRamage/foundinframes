@@ -6,7 +6,7 @@ watchedDate: '2023-11-01'
 publishedDate: '2023-11-03'
 letterboxdUrl: 'https://boxd.it/56eNsF'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BYTk3MjFkZmQtMThiYi00N2JhLTk2YzItZTE5ZGUxZTIyZDVkXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/8/2/2/0/9/3/822093-anatomy-of-a-fall-0-600-0-900-crop.jpg?v=4efab8aedc
 wordCount: 722
 slug: anatomy-of-a-fall-2023
 excerpt: >-

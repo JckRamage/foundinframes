@@ -6,7 +6,7 @@ watchedDate: '2023-09-05'
 publishedDate: '2023-09-07'
 letterboxdUrl: 'https://boxd.it/4On5vh'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BYzU2MTlkMTctNWI3MC00ODUzLTlmYzQtMzZjYjVmMmYwZGU0XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/7/1/7/6/5/4/717654-the-killer-0-600-0-900-crop.jpg?v=39fba8ec40
 wordCount: 417
 slug: the-killer-2023
 excerpt: >-

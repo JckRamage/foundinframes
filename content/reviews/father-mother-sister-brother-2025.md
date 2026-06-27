@@ -6,7 +6,7 @@ watchedDate: '2025-10-08'
 publishedDate: '2025-10-09'
 letterboxdUrl: 'https://boxd.it/bjoiHT'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BNWI5OTEzMzEtZTdiNS00NTdjLWFjMTQtZDM5MjRjYWE1M2ZkXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/1/0/4/5/3/3/8/1045338-father-mother-sister-brother-0-600-0-900-crop.jpg?v=37e9e87d41
 wordCount: 504
 slug: father-mother-sister-brother-2025
 excerpt: >-

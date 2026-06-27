@@ -6,7 +6,7 @@ watchedDate: '2019-10-08'
 publishedDate: '2019-10-09'
 letterboxdUrl: 'https://boxd.it/PLgZH'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BNzY3OWQ5NDktNWQ2OC00ZjdlLThkMmItMDhhNDk3NTFiZGU4XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/4/0/6/7/7/5/406775-joker-0-600-0-900-crop.jpg?v=e4ea7f98cc
 wordCount: 507
 slug: joker-2019
 excerpt: >-

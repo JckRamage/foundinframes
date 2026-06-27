@@ -6,7 +6,7 @@ watchedDate: '2026-02-14'
 publishedDate: '2026-02-16'
 letterboxdUrl: 'https://boxd.it/d9sJfB'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BNjNkNmNhOWUtZTFmOC00YmQ4LWEzYWQtZjdlMGU0MGRkN2YzXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/1/1/9/6/9/1/1/1196911-wuthering-heights-2026-0-600-0-900-crop.jpg?v=7d02cf3bdc
 wordCount: 977
 slug: wuthering-heights-2026
 excerpt: >-

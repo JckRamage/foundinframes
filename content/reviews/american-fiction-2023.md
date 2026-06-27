@@ -6,7 +6,7 @@ watchedDate: '2024-01-22'
 publishedDate: '2024-01-25'
 letterboxdUrl: 'https://boxd.it/5G3097'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BM2I4ZTZhOTMtZDQ0Ni00MzI5LWE2YjktNzc0NjdkOGJiZjYzXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/9/5/2/8/1/2/952812-american-fiction-0-600-0-900-crop.jpg?v=fbc2c6daf1
 wordCount: 554
 slug: american-fiction-2023
 excerpt: >-

@@ -6,7 +6,7 @@ watchedDate: '2023-10-02'
 publishedDate: '2023-10-03'
 letterboxdUrl: 'https://boxd.it/4W0757'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BNzEyNTNlNDAtNTMxOC00YzMzLWFkM2QtZmRiNGE5ZTQyMWFmXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/7/3/1/2/2/2/731222-bottoms-0-600-0-900-crop.jpg?v=11b87368c8
 wordCount: 421
 slug: bottoms-2023
 excerpt: >-

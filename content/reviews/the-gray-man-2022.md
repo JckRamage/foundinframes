@@ -6,7 +6,7 @@ watchedDate: '2022-07-25'
 publishedDate: '2022-07-26'
 letterboxdUrl: 'https://boxd.it/33EoTP'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BZmFhZTNlNzctZGQzZi00MTA3LThiNjMtYWQzNjUzMjNjZjA3XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/6/4/7/7/6/0/647760-the-gray-man-0-600-0-900-crop.jpg?v=85006270c0
 wordCount: 440
 slug: the-gray-man-2022
 excerpt: >-

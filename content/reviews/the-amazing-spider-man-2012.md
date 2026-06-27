@@ -6,7 +6,7 @@ watchedDate: '2021-12-06'
 publishedDate: '2021-12-11'
 letterboxdUrl: 'https://boxd.it/2lK5NT'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/5/0/6/7/7/50677-the-amazing-spider-man-0-600-0-900-crop.jpg?v=2e109aabed
 wordCount: 574
 slug: the-amazing-spider-man-2012
 excerpt: >-

@@ -6,7 +6,7 @@ watchedDate: '2021-07-10'
 publishedDate: '2021-07-11'
 letterboxdUrl: 'https://boxd.it/1Z7J1z'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BMWY5MjljNjctZjhjZS00MWY0LTgwYzUtZTJiYTVmMmJkM2E0XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/2/6/6/6/7/6/266676-cruella-0-600-0-900-crop.jpg?v=310d3d59a9
 wordCount: 866
 slug: cruella-2021
 excerpt: >-

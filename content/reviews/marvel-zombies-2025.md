@@ -6,7 +6,7 @@ watchedDate: '2025-09-28'
 publishedDate: '2025-10-07'
 letterboxdUrl: 'https://boxd.it/bhJ7tZ'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BNGNkYjI3ZWUtN2MzMS00NDg5LWE5MmYtZGE4Zjc0OGVhODM4XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/1/4/1/5/4/7/6/1415476-marvel-zombies-0-600-0-900-crop.jpg?v=3c9f4100e5
 wordCount: 422
 slug: marvel-zombies-2025
 excerpt: >-

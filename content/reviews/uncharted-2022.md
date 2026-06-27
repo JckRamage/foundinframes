@@ -6,7 +6,7 @@ watchedDate: '2022-02-14'
 publishedDate: '2022-02-15'
 letterboxdUrl: 'https://boxd.it/2A6DFp'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BYjQxYWNiNzgtOTc2Yi00OGEwLTk5MjAtODdiZTk0ZDJlZGY4XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/2/6/4/3/2/8/264328-uncharted-0-600-0-900-crop.jpg?v=988669139a
 wordCount: 694
 slug: uncharted-2022
 excerpt: >-

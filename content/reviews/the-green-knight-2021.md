@@ -6,7 +6,7 @@ watchedDate: '2021-09-28'
 publishedDate: '2021-09-29'
 letterboxdUrl: 'https://boxd.it/2axZGT'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BNjRjNmU1M2ItNDU4Ni00ZGY2LTlmNzItY2MxYmY3OTllZjMwXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/4/8/8/3/9/9/488399-the-green-knight-0-600-0-900-crop.jpg?v=874a267b92
 wordCount: 1534
 slug: the-green-knight-2021
 excerpt: >-

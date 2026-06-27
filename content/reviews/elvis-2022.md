@@ -6,7 +6,7 @@ watchedDate: '2022-06-30'
 publishedDate: '2022-07-02'
 letterboxdUrl: 'https://boxd.it/2YQ9K3'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BNTVhZmUyMDQtY2I5Ny00OWNiLTgzNjUtMTg4YTQwMTc0OTQxXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/5/4/2/0/3/2/542032-elvis-0-600-0-900-crop.jpg?v=c8e56b86bc
 wordCount: 526
 slug: elvis-2022
 excerpt: >-

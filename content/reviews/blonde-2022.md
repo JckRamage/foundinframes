@@ -6,7 +6,7 @@ watchedDate: '2022-09-08'
 publishedDate: '2022-09-13'
 letterboxdUrl: 'https://boxd.it/3dHAPV'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BMDllNjNhMWYtZTg0ZC00ZTE3LWI3MDgtMThiOTY0NTBmOGI4XkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/2/2/8/5/9/4/228594-blonde-0-600-0-900-crop.jpg?v=7d0ba051a3
 wordCount: 754
 slug: blonde-2022
 excerpt: >-

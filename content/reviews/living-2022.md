@@ -6,7 +6,7 @@ watchedDate: '2022-08-31'
 publishedDate: '2022-09-01'
 letterboxdUrl: 'https://boxd.it/3bB4Nt'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BZjI3ZDNlNDAtMmY0OS00ZWU5LThjZTktZGRmMmE3YjllODZhXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/6/8/0/6/3/5/680635-living-0-600-0-900-crop.jpg?v=36ad89e0a1
 wordCount: 441
 slug: living-2022
 excerpt: >-

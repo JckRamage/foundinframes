@@ -6,7 +6,7 @@ watchedDate: '2022-06-22'
 publishedDate: '2022-06-27'
 letterboxdUrl: 'https://boxd.it/2Y0kM1'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BOGU4ODlmNmMtMDM0OS00NTMxLWFlODUtZGFkMjU5NDdhMjgyXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/8/2/8/6/1/5/828615-obi-wan-kenobi-0-600-0-900-crop.jpg?v=0c52e6dea7
 wordCount: 1087
 slug: obi-wan-kenobi-2022
 excerpt: >-

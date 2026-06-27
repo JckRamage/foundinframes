@@ -6,7 +6,7 @@ watchedDate: '2023-11-02'
 publishedDate: '2023-11-04'
 letterboxdUrl: 'https://boxd.it/56J6oR'
 posterUrl: >-
-  https://m.media-amazon.com/images/M/MV5BZWY5ZDVjNTUtODI5Yy00MjFhLWEyM2EtYzZjM2VjZTI0MTBjXkEyXkFqcGc@._V1_.jpg
+  https://a.ltrbxd.com/resized/film-poster/3/9/8/0/0/9/398009-killers-of-the-flower-moon-0-600-0-900-crop.jpg?v=49b577149d
 wordCount: 1013
 slug: killers-of-the-flower-moon-2023
 excerpt: >-
