@@ -1,6 +1,7 @@
 import fs from "node:fs"
 import path from "node:path"
 import matter from "gray-matter"
+import { cache } from "react"
 
 const reviewsDirectory = path.join(process.cwd(), "content", "reviews")
 
@@ -25,17 +26,28 @@ export type ReviewSummary = ReviewFrontmatter & {
   excerpt: string
 }
 
-export function getAllReviewSummaries(): ReviewSummary[] {
-  if (!fs.existsSync(reviewsDirectory)) {
-    return []
+let reviewSummariesCache: ReviewSummary[] | null = null
+
+function loadAllReviewSummaries(): ReviewSummary[] {
+  if (reviewSummariesCache) {
+    return reviewSummariesCache
   }
 
-  return fs
+  if (!fs.existsSync(reviewsDirectory)) {
+    reviewSummariesCache = []
+    return reviewSummariesCache
+  }
+
+  reviewSummariesCache = fs
     .readdirSync(reviewsDirectory)
     .filter((fileName) => fileName.endsWith(".md"))
     .map((fileName) => readReviewSummary(fileName))
     .sort((a, b) => Date.parse(b.publishedDate) - Date.parse(a.publishedDate))
+
+  return reviewSummariesCache
 }
+
+export const getAllReviewSummaries = cache((): ReviewSummary[] => loadAllReviewSummaries())
 
 export function getAllReviews(): Review[] {
   if (!fs.existsSync(reviewsDirectory)) {
@@ -109,6 +121,7 @@ function readReviewSummary(fileName: string): ReviewSummary {
   const fileContents = fs.readFileSync(fullPath, "utf8")
   const { data, content } = matter(fileContents)
   const slug = String(data.slug ?? fileName.replace(/\.md$/, ""))
+  const hasStoredExcerpt = typeof data.excerpt === "string" && data.excerpt.trim().length > 0
 
   return {
     title: requireString(data.title, "title", fileName),
@@ -120,7 +133,7 @@ function readReviewSummary(fileName: string): ReviewSummary {
     posterUrl: requireString(data.posterUrl, "posterUrl", fileName),
     wordCount: requireNumber(data.wordCount, "wordCount", fileName),
     slug,
-    excerpt: typeof data.excerpt === "string" ? data.excerpt : createExcerpt(content),
+    excerpt: hasStoredExcerpt ? data.excerpt : createExcerpt(content),
   }
 }
 

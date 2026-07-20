@@ -2,11 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --font-display: "Abril Fatface", Georgia, serif;
-  --font-sans: "Poppins", ui-sans-serif, system-ui, sans-serif;
-}
-
 * {
   box-sizing: border-box;
 }
@@ -61,6 +56,12 @@ a {
 
 .retro-blob {
   animation: retro-blob-float 22s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .retro-blob {
+    animation: none;
+  }
 }
 
 .retro-blob-delay-1 {

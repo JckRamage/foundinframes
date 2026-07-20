@@ -1,10 +1,25 @@
 import type { Metadata } from "next"
 import Image from "next/image"
 import Link from "next/link"
+import { Abril_Fatface, Poppins } from "next/font/google"
 import { Analytics } from "@vercel/analytics/next"
 import PageBackground from "@/components/page-background"
 import SocialLinks from "@/components/social-links"
 import "./globals.css"
+
+const abrilFatface = Abril_Fatface({
+  subsets: ["latin"],
+  weight: "400",
+  variable: "--font-display",
+  display: "swap",
+})
+
+const poppins = Poppins({
+  subsets: ["latin"],
+  weight: ["400", "500", "600", "700"],
+  variable: "--font-sans",
+  display: "swap",
+})
 
 export const metadata: Metadata = {
   title: {
@@ -25,21 +40,7 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="en">
-      <head>
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-        <link
-          href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Poppins:wght@400;500;600;700&display=swap"
-          rel="stylesheet"
-        />
-        <link
-          rel="stylesheet"
-          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
-          crossOrigin="anonymous"
-          referrerPolicy="no-referrer"
-        />
-      </head>
+    <html lang="en" className={`${abrilFatface.variable} ${poppins.variable}`}>
       <body className="antialiased">
         <PageBackground />
         <header className="sticky top-0 z-50 border-b border-ink/10 bg-paper/90 backdrop-blur">

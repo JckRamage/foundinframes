@@ -9,6 +9,8 @@ export const metadata: Metadata = {
   description: "Long-form Found in Frames film reviews.",
 }
 
+export const revalidate = false
+
 interface ReviewsPageProps {
   searchParams: Promise<{
     page?: string

@@ -24,13 +24,27 @@ const turndown = new TurndownService({
   bulletListMarker: "-",
 })
 
+export function extractLetterboxdFilmId(posterUrl?: string): string | undefined {
+  if (!posterUrl) {
+    return undefined
+  }
+
+  const match = posterUrl.match(/\/(\d{4,})-[^/]+\.(jpg|webp)/i)
+  return match?.[1]
+}
+
 export async function writeReviewIfNew(input: ReviewInput, dryRun = false): Promise<"created" | "skipped"> {
   await fs.mkdir(contentDirectory, { recursive: true })
   const existing = await getExistingReviewKeys()
   const wordCount = countWords(input.reviewMarkdown)
   const signature = createReviewSignature(input.title, input.year, input.watchedDate)
+  const filmId = extractLetterboxdFilmId(input.posterUrl)
 
-  if (existing.urls.has(input.letterboxdUrl) || existing.signatures.has(signature)) {
+  if (
+    existing.urls.has(input.letterboxdUrl) ||
+    existing.signatures.has(signature) ||
+    (filmId && existing.filmIds.has(filmId))
+  ) {
     return "skipped"
   }
 
@@ -141,10 +155,16 @@ export async function searchTmdbPoster(title: string, year: number): Promise<str
   return posterPath ? `https://image.tmdb.org/t/p/w500${posterPath}` : undefined
 }
 
-async function getExistingReviewKeys(): Promise<{ urls: Set<string>; slugs: Set<string>; signatures: Set<string> }> {
+async function getExistingReviewKeys(): Promise<{
+  urls: Set<string>
+  slugs: Set<string>
+  signatures: Set<string>
+  filmIds: Set<string>
+}> {
   const urls = new Set<string>()
   const slugs = new Set<string>()
   const signatures = new Set<string>()
+  const filmIds = new Set<string>()
 
   try {
     const fileNames = await fs.readdir(contentDirectory)
@@ -156,6 +176,11 @@ async function getExistingReviewKeys(): Promise<{ urls: Set<string>; slugs: Set<
 
       if (typeof data.letterboxdUrl === "string") {
         urls.add(data.letterboxdUrl)
+      }
+
+      const posterFilmId = typeof data.posterUrl === "string" ? extractLetterboxdFilmId(data.posterUrl) : undefined
+      if (posterFilmId) {
+        filmIds.add(posterFilmId)
       }
 
       if (
@@ -172,11 +197,15 @@ async function getExistingReviewKeys(): Promise<{ urls: Set<string>; slugs: Set<
     }
   }
 
-  return { urls, slugs, signatures }
+  return { urls, slugs, signatures, filmIds }
+}
+
+function normalizeTitleForDedup(title: string): string {
+  return slugify(title.replace(/^star wars:\s*/i, "").trim())
 }
 
 function createReviewSignature(title: string, year: number, watchedDate: string): string {
-  return `${slugify(title)}:${year}:${watchedDate}`
+  return `${normalizeTitleForDedup(title)}:${year}:${watchedDate}`
 }
 
 function createUniqueSlug(baseSlug: string, existingSlugs: Set<string>): string {
