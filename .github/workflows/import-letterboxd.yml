@@ -3,7 +3,11 @@ name: Import Letterboxd reviews
 on:
   workflow_dispatch:
   schedule:
-    - cron: "12 7 * * 1"
+    - cron: "0 * * * *"
+
+concurrency:
+  group: import-letterboxd
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -24,15 +28,15 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Import long Letterboxd reviews
+      - name: Sync long Letterboxd reviews from RSS
         run: npm run import:letterboxd:rss
         env:
           LETTERBOXD_USERNAME: foundinframes
           MIN_REVIEW_WORDS: "400"
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
 
-      - name: Commit new reviews
+      - name: Commit review changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Add imported Letterboxd reviews"
+          commit_message: "Sync Letterboxd reviews"
           file_pattern: content/reviews/*.md

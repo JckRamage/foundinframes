@@ -33,40 +33,163 @@ export function extractLetterboxdFilmId(posterUrl?: string): string | undefined 
   return match?.[1]
 }
 
-export async function writeReviewIfNew(input: ReviewInput, dryRun = false): Promise<"created" | "skipped"> {
-  await fs.mkdir(contentDirectory, { recursive: true })
-  const existing = await getExistingReviewKeys()
-  const wordCount = countWords(input.reviewMarkdown)
-  const signature = createReviewSignature(input.title, input.year, input.watchedDate)
-  const filmId = extractLetterboxdFilmId(input.posterUrl)
+export interface ExistingReviewRecord {
+  fileName: string
+  slug: string
+  title: string
+  year: number
+  rating: number | null
+  watchedDate: string
+  publishedDate: string
+  letterboxdUrl: string
+  posterUrl: string
+  wordCount: number
+  content: string
+}
 
-  if (
-    existing.urls.has(input.letterboxdUrl) ||
-    existing.signatures.has(signature) ||
-    (filmId && existing.filmIds.has(filmId))
-  ) {
-    return "skipped"
+export interface ReviewIndex {
+  byUrl: Map<string, ExistingReviewRecord>
+  byFilmId: Map<string, ExistingReviewRecord>
+  bySignature: Map<string, ExistingReviewRecord>
+  slugs: Set<string>
+}
+
+export async function loadReviewIndex(): Promise<ReviewIndex> {
+  const index: ReviewIndex = {
+    byUrl: new Map(),
+    byFilmId: new Map(),
+    bySignature: new Map(),
+    slugs: new Set(),
+  }
+
+  try {
+    const fileNames = await fs.readdir(contentDirectory)
+
+    for (const fileName of fileNames.filter((name) => name.endsWith(".md"))) {
+      const fileContents = await fs.readFile(path.join(contentDirectory, fileName), "utf8")
+      const { data, content } = matter(fileContents)
+      const slug = String(data.slug ?? fileName.replace(/\.md$/, ""))
+
+      if (
+        typeof data.title !== "string" ||
+        !Number.isFinite(Number(data.year)) ||
+        typeof data.watchedDate !== "string" ||
+        typeof data.publishedDate !== "string" ||
+        typeof data.letterboxdUrl !== "string" ||
+        typeof data.posterUrl !== "string"
+      ) {
+        continue
+      }
+
+      const record: ExistingReviewRecord = {
+        fileName,
+        slug,
+        title: data.title,
+        year: Number(data.year),
+        rating: optionalNumber(data.rating),
+        watchedDate: data.watchedDate,
+        publishedDate: data.publishedDate,
+        letterboxdUrl: data.letterboxdUrl,
+        posterUrl: data.posterUrl,
+        wordCount: Number(data.wordCount) || countWords(content),
+        content,
+      }
+
+      registerReviewRecord(index, record)
+    }
+  } catch (error) {
+    if ((error as NodeJS.ErrnoException).code !== "ENOENT") {
+      throw error
+    }
+  }
+
+  return index
+}
+
+export function findExistingReview(index: ReviewIndex, input: ReviewInput): ExistingReviewRecord | undefined {
+  const normalizedUrl = normalizeLetterboxdUrl(input.letterboxdUrl)
+  const byUrl = index.byUrl.get(normalizedUrl)
+  if (byUrl) {
+    return byUrl
+  }
+
+  const filmId = extractLetterboxdFilmId(input.posterUrl)
+  if (filmId) {
+    const byFilmId = index.byFilmId.get(filmId)
+    if (byFilmId) {
+      return byFilmId
+    }
+  }
+
+  const signature = createReviewSignature(input.title, input.year, input.watchedDate)
+  return index.bySignature.get(signature)
+}
+
+export async function syncReviewFromLetterboxd(
+  input: ReviewInput,
+  index: ReviewIndex,
+  dryRun = false,
+): Promise<"created" | "updated" | "skipped"> {
+  await fs.mkdir(contentDirectory, { recursive: true })
+
+  const reviewMarkdown = input.reviewMarkdown.trim()
+  const wordCount = countWords(reviewMarkdown)
+  const existing = findExistingReview(index, input)
+
+  if (existing) {
+    if (wordCount <= minimumWordCount) {
+      return "skipped"
+    }
+
+    const posterUrl = input.posterUrl ?? existing.posterUrl
+    const changed =
+      existing.content.trim() !== reviewMarkdown ||
+      existing.rating !== input.rating ||
+      existing.publishedDate !== input.publishedDate ||
+      existing.watchedDate !== input.watchedDate ||
+      existing.title !== input.title ||
+      normalizeLetterboxdUrl(existing.letterboxdUrl) !== normalizeLetterboxdUrl(input.letterboxdUrl) ||
+      existing.posterUrl !== posterUrl
+
+    if (!changed) {
+      return "skipped"
+    }
+
+    const filePath = path.join(contentDirectory, existing.fileName)
+    const fileContents = buildReviewFileContents(input, existing.slug, posterUrl, wordCount, reviewMarkdown)
+
+    if (dryRun) {
+      console.log(`[dry-run] would update ${path.relative(process.cwd(), filePath)}`)
+      return "updated"
+    }
+
+    await fs.writeFile(filePath, fileContents, "utf8")
+    console.log(`Updated ${path.relative(process.cwd(), filePath)}`)
+
+    unregisterReviewRecord(index, existing)
+    registerReviewRecord(index, {
+      ...existing,
+      title: input.title,
+      rating: input.rating,
+      watchedDate: input.watchedDate,
+      publishedDate: input.publishedDate,
+      letterboxdUrl: input.letterboxdUrl,
+      posterUrl,
+      wordCount,
+      content: reviewMarkdown,
+    })
+
+    return "updated"
   }
 
   if (wordCount <= minimumWordCount) {
     return "skipped"
   }
 
-  const slug = createUniqueSlug(slugify(`${input.title}-${input.year}`), existing.slugs)
+  const slug = createUniqueSlug(slugify(`${input.title}-${input.year}`), index.slugs)
   const posterUrl = input.posterUrl ?? (await getPosterFromTmdb(input.tmdbMovieId)) ?? placeholderPoster
   const filePath = path.join(contentDirectory, `${slug}.md`)
-  const fileContents = matter.stringify(input.reviewMarkdown.trim(), {
-    title: input.title,
-    year: input.year,
-    rating: input.rating,
-    watchedDate: input.watchedDate,
-    publishedDate: input.publishedDate,
-    letterboxdUrl: input.letterboxdUrl,
-    posterUrl,
-    wordCount,
-    slug,
-    excerpt: createExcerpt(input.reviewMarkdown),
-  })
+  const fileContents = buildReviewFileContents(input, slug, posterUrl, wordCount, reviewMarkdown)
 
   if (dryRun) {
     console.log(`[dry-run] would create ${path.relative(process.cwd(), filePath)}`)
@@ -75,7 +198,33 @@ export async function writeReviewIfNew(input: ReviewInput, dryRun = false): Prom
 
   await fs.writeFile(filePath, fileContents, "utf8")
   console.log(`Created ${path.relative(process.cwd(), filePath)}`)
+
+  registerReviewRecord(index, {
+    fileName: `${slug}.md`,
+    slug,
+    title: input.title,
+    year: input.year,
+    rating: input.rating,
+    watchedDate: input.watchedDate,
+    publishedDate: input.publishedDate,
+    letterboxdUrl: input.letterboxdUrl,
+    posterUrl,
+    wordCount,
+    content: reviewMarkdown,
+  })
+
   return "created"
+}
+
+export async function writeReviewIfNew(input: ReviewInput, dryRun = false): Promise<"created" | "skipped"> {
+  const index = await loadReviewIndex()
+
+  if (findExistingReview(index, input)) {
+    return "skipped"
+  }
+
+  const result = await syncReviewFromLetterboxd(input, index, dryRun)
+  return result === "created" ? "created" : "skipped"
 }
 
 export function htmlDescriptionToMarkdown(description: string): string {
@@ -155,49 +304,62 @@ export async function searchTmdbPoster(title: string, year: number): Promise<str
   return posterPath ? `https://image.tmdb.org/t/p/w500${posterPath}` : undefined
 }
 
-async function getExistingReviewKeys(): Promise<{
-  urls: Set<string>
-  slugs: Set<string>
-  signatures: Set<string>
-  filmIds: Set<string>
-}> {
-  const urls = new Set<string>()
-  const slugs = new Set<string>()
-  const signatures = new Set<string>()
-  const filmIds = new Set<string>()
+function normalizeLetterboxdUrl(url: string): string {
+  return url.trim().replace(/\/+$/, "")
+}
 
-  try {
-    const fileNames = await fs.readdir(contentDirectory)
+function buildReviewFileContents(
+  input: ReviewInput,
+  slug: string,
+  posterUrl: string,
+  wordCount: number,
+  reviewMarkdown: string,
+): string {
+  return matter.stringify(reviewMarkdown, {
+    title: input.title,
+    year: input.year,
+    rating: input.rating,
+    watchedDate: input.watchedDate,
+    publishedDate: input.publishedDate,
+    letterboxdUrl: input.letterboxdUrl,
+    posterUrl,
+    wordCount,
+    slug,
+    excerpt: createExcerpt(reviewMarkdown),
+  })
+}
 
-    for (const fileName of fileNames.filter((name) => name.endsWith(".md"))) {
-      const fileContents = await fs.readFile(path.join(contentDirectory, fileName), "utf8")
-      const { data } = matter(fileContents)
-      slugs.add(String(data.slug ?? fileName.replace(/\.md$/, "")))
+function registerReviewRecord(index: ReviewIndex, record: ExistingReviewRecord): void {
+  index.slugs.add(record.slug)
+  index.byUrl.set(normalizeLetterboxdUrl(record.letterboxdUrl), record)
 
-      if (typeof data.letterboxdUrl === "string") {
-        urls.add(data.letterboxdUrl)
-      }
-
-      const posterFilmId = typeof data.posterUrl === "string" ? extractLetterboxdFilmId(data.posterUrl) : undefined
-      if (posterFilmId) {
-        filmIds.add(posterFilmId)
-      }
-
-      if (
-        typeof data.title === "string" &&
-        Number.isFinite(Number(data.year)) &&
-        typeof data.watchedDate === "string"
-      ) {
-        signatures.add(createReviewSignature(data.title, Number(data.year), data.watchedDate))
-      }
-    }
-  } catch (error) {
-    if ((error as NodeJS.ErrnoException).code !== "ENOENT") {
-      throw error
-    }
+  const filmId = extractLetterboxdFilmId(record.posterUrl)
+  if (filmId) {
+    index.byFilmId.set(filmId, record)
   }
 
-  return { urls, slugs, signatures, filmIds }
+  index.bySignature.set(createReviewSignature(record.title, record.year, record.watchedDate), record)
+}
+
+function unregisterReviewRecord(index: ReviewIndex, record: ExistingReviewRecord): void {
+  index.slugs.delete(record.slug)
+  index.byUrl.delete(normalizeLetterboxdUrl(record.letterboxdUrl))
+
+  const filmId = extractLetterboxdFilmId(record.posterUrl)
+  if (filmId) {
+    index.byFilmId.delete(filmId)
+  }
+
+  index.bySignature.delete(createReviewSignature(record.title, record.year, record.watchedDate))
+}
+
+function optionalNumber(value: unknown): number | null {
+  if (value === null || value === undefined || value === "") {
+    return null
+  }
+
+  const numberValue = Number(value)
+  return Number.isFinite(numberValue) ? numberValue : null
 }
 
 function normalizeTitleForDedup(title: string): string {

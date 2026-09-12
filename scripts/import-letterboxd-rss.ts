@@ -2,7 +2,8 @@ import { XMLParser } from "fast-xml-parser"
 import {
   extractPosterUrl,
   htmlDescriptionToMarkdown,
-  writeReviewIfNew,
+  loadReviewIndex,
+  syncReviewFromLetterboxd,
 } from "./import-utils"
 
 interface LetterboxdRssItem {
@@ -45,7 +46,9 @@ async function main() {
     }
   }
   const items = normaliseArray(parsed.rss?.channel?.item)
+  const index = await loadReviewIndex()
   let created = 0
+  let updated = 0
   let skipped = 0
 
   for (const item of items) {
@@ -59,7 +62,7 @@ async function main() {
 
     const description = item.description ?? ""
     const reviewMarkdown = htmlDescriptionToMarkdown(description)
-    const result = await writeReviewIfNew(
+    const result = await syncReviewFromLetterboxd(
       {
         title,
         year,
@@ -71,17 +74,20 @@ async function main() {
         reviewMarkdown,
         tmdbMovieId: item["tmdb:movieId"] ? String(item["tmdb:movieId"]) : undefined,
       },
+      index,
       dryRun,
     )
 
     if (result === "created") {
       created += 1
+    } else if (result === "updated") {
+      updated += 1
     } else {
       skipped += 1
     }
   }
 
-  console.log(`Letterboxd RSS import complete. Created ${created}, skipped ${skipped}.`)
+  console.log(`Letterboxd RSS sync complete. Created ${created}, updated ${updated}, skipped ${skipped}.`)
 }
 
 function normaliseArray<T>(value: T | T[] | undefined): T[] {
