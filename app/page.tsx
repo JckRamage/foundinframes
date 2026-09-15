@@ -113,7 +113,7 @@ export default function HomePage() {
           href="/reviews"
           linkLabel="Explore the archive"
         />
-        <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 md:gap-4">
+        <div className="grid grid-cols-2 gap-3 sm:grid-cols-4 md:gap-4">
           {pinnedReviews.map((review, index) => (
             <ReviewPosterCard key={review.slug} review={review} priority={index < 2} size="compact" />
           ))}
@@ -128,7 +128,7 @@ export default function HomePage() {
           linkLabel="Watch on YouTube"
           inverted
         />
-        <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+        <div className="grid grid-cols-2 gap-3 sm:grid-cols-4">
           {featuredVideoEssays.map((essay) => (
             <VideoEssayCard key={essay.url} essay={essay} />
           ))}
@@ -140,6 +140,8 @@ export default function HomePage() {
           eyebrow="Short-form"
           title="From the Feed"
           description={shortFormSummary}
+          href="/content"
+          linkLabel="Browse series"
         />
         <Link
           href={shortFormSummaryUrl}
@@ -149,9 +151,9 @@ export default function HomePage() {
         >
           Read the full breakdown on Instagram
         </Link>
-        <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="grid grid-cols-2 gap-3 sm:grid-cols-4">
           {featuredShortForm.map((pick, index) => (
-            <ShortFormCard key={pick.url} pick={pick} priority={index < 3} />
+            <ShortFormCard key={pick.url} pick={pick} priority={index < 4} />
           ))}
         </div>
         <div className="mt-8">

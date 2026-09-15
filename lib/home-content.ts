@@ -60,14 +60,29 @@ export interface ShortFormPick {
 
 export const featuredShortForm: ShortFormPick[] = [
   {
+    title: "Danny Boyle on AI & filmmaking",
+    url: "https://www.instagram.com/p/DdAMkTso4am/",
+    thumbnail: "/short-form/ddamktso4am.jpg",
+  },
+  {
+    title: "The Harsh Reality of Adults",
+    url: "https://www.instagram.com/p/DczYKKhIKoR/",
+    thumbnail: "/short-form/dczykkhikor.jpg",
+  },
+  {
+    title: "The Dog Stars",
+    url: "https://www.instagram.com/p/Dc2HnYGIuuz/",
+    thumbnail: "/short-form/dc2hnygiuuz.jpg",
+  },
+  {
+    title: "Back in the Closet",
+    url: "https://www.instagram.com/p/DcwvMydovEa/",
+    thumbnail: "/short-form/dcwvmydovea.jpg",
+  },
+  {
     title: "Gen AI & Film Festivals",
     url: "https://www.instagram.com/p/DZn6X9HIM_n/",
     thumbnail: "/short-form/gen-ai-film-festival.jpg",
-  },
-  {
-    title: "The Fabelmans",
-    url: "https://www.instagram.com/p/DZmZj84oA1h/",
-    thumbnail: "/short-form/spielberg-fabelmans.jpg",
   },
   {
     title: "Masters of the Universe",
@@ -83,10 +98,5 @@ export const featuredShortForm: ShortFormPick[] = [
     title: "Star Wars Discourse",
     url: "https://www.instagram.com/p/DY1ftDYIXCH/",
     thumbnail: "/short-form/mandalorian-discourse.jpg",
-  },
-  {
-    title: "The Mandalorian & Grogu",
-    url: "https://www.instagram.com/p/DYsSDlxooz3/",
-    thumbnail: "/short-form/mandalorian-review.jpg",
   },
 ]

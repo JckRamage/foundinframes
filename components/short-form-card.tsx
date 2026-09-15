@@ -11,12 +11,12 @@ export default function ShortFormCard({ pick, priority = false }: ShortFormCardP
   return (
     <article className="group">
       <Link href={pick.url} target="_blank" rel="noopener noreferrer" className="block">
-        <div className="relative mx-auto aspect-[9/16] max-w-[280px] overflow-hidden rounded-3xl border-4 border-maroon/15 bg-maroon/5 shadow-lg transition group-hover:border-orange/40">
+        <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl border-4 border-maroon/15 bg-maroon/5 shadow-lg transition group-hover:border-orange/40">
           <Image
             src={pick.thumbnail}
             alt={pick.title}
             fill
-            sizes="(min-width: 1024px) 280px, (min-width: 640px) 33vw, 45vw"
+            sizes="(min-width: 640px) 25vw, 45vw"
             className="object-cover"
             priority={priority}
           />
@@ -29,7 +29,7 @@ export default function ShortFormCard({ pick, priority = false }: ShortFormCardP
             </span>
           </div>
         </div>
-        <h3 className="mx-auto mt-4 max-w-[280px] text-center font-display text-lg font-bold leading-snug text-maroon transition group-hover:text-orange">
+        <h3 className="mt-3 text-center font-display text-sm font-bold leading-snug text-maroon transition group-hover:text-orange sm:text-base">
           {pick.title}
         </h3>
       </Link>
