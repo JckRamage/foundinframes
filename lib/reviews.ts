@@ -2,28 +2,16 @@ import fs from "node:fs"
 import path from "node:path"
 import matter from "gray-matter"
 import { cache } from "react"
+import { detectFestivalFromContent } from "@/lib/festival-detect"
+import type { ReviewFrontmatter, ReviewSummary } from "@/lib/review-types"
+
+export type { ReviewFrontmatter, ReviewSummary } from "@/lib/review-types"
+export { formatDate, formatRating } from "@/lib/review-format"
 
 const reviewsDirectory = path.join(process.cwd(), "content", "reviews")
 
-export interface ReviewFrontmatter {
-  title: string
-  year: number
-  rating: number | null
-  watchedDate: string
-  publishedDate: string
-  letterboxdUrl: string
-  posterUrl: string
-  wordCount: number
-  slug: string
-  excerpt?: string
-}
-
 export interface Review extends ReviewFrontmatter {
   content: string
-}
-
-export type ReviewSummary = ReviewFrontmatter & {
-  excerpt: string
 }
 
 let reviewSummariesCache: ReviewSummary[] | null = null
@@ -100,40 +88,31 @@ export function getReviewsBySlugs(slugs: string[]): ReviewSummary[] {
   return slugs.map((slug) => reviewsBySlug.get(slug)).filter((review): review is ReviewSummary => review !== undefined)
 }
 
-export function formatRating(rating: number | null): string {
-  if (rating === null || Number.isNaN(rating)) {
-    return "Unrated"
-  }
-
-  return `${rating.toFixed(1).replace(".0", "")}/5`
-}
-
-export function formatDate(date: string): string {
-  return new Intl.DateTimeFormat("en-GB", {
-    day: "numeric",
-    month: "long",
-    year: "numeric",
-  }).format(new Date(`${date}T00:00:00`))
-}
-
 function readReviewSummary(fileName: string): ReviewSummary {
   const fullPath = path.join(reviewsDirectory, fileName)
   const fileContents = fs.readFileSync(fullPath, "utf8")
   const { data, content } = matter(fileContents)
   const slug = String(data.slug ?? fileName.replace(/\.md$/, ""))
   const hasStoredExcerpt = typeof data.excerpt === "string" && data.excerpt.trim().length > 0
+  const publishedDate = requireString(data.publishedDate, "publishedDate", fileName)
+  const festival = detectFestivalFromContent(content, publishedDate)
 
   return {
     title: requireString(data.title, "title", fileName),
     year: requireNumber(data.year, "year", fileName),
     rating: optionalNumber(data.rating),
     watchedDate: requireString(data.watchedDate, "watchedDate", fileName),
-    publishedDate: requireString(data.publishedDate, "publishedDate", fileName),
+    publishedDate,
     letterboxdUrl: requireString(data.letterboxdUrl, "letterboxdUrl", fileName),
     posterUrl: requireString(data.posterUrl, "posterUrl", fileName),
     wordCount: requireNumber(data.wordCount, "wordCount", fileName),
     slug,
     excerpt: hasStoredExcerpt ? data.excerpt : createExcerpt(content),
+    festivalEdition: festival?.editionSlug ?? null,
+    festivalName: festival?.name ?? null,
+    festivalShortName: festival?.shortName ?? null,
+    festivalYear: festival?.year ?? null,
+    festivalFilmNumber: festival?.filmNumber ?? null,
   }
 }
 
@@ -142,18 +121,25 @@ function readReviewFile(fileName: string): Review {
   const fileContents = fs.readFileSync(fullPath, "utf8")
   const { data, content } = matter(fileContents)
   const slug = String(data.slug ?? fileName.replace(/\.md$/, ""))
+  const publishedDate = requireString(data.publishedDate, "publishedDate", fileName)
+  const festival = detectFestivalFromContent(content, publishedDate)
   const review: Review = {
     title: requireString(data.title, "title", fileName),
     year: requireNumber(data.year, "year", fileName),
     rating: optionalNumber(data.rating),
     watchedDate: requireString(data.watchedDate, "watchedDate", fileName),
-    publishedDate: requireString(data.publishedDate, "publishedDate", fileName),
+    publishedDate,
     letterboxdUrl: requireString(data.letterboxdUrl, "letterboxdUrl", fileName),
     posterUrl: requireString(data.posterUrl, "posterUrl", fileName),
     wordCount: requireNumber(data.wordCount, "wordCount", fileName),
     slug,
     excerpt: typeof data.excerpt === "string" ? data.excerpt : createExcerpt(content),
     content,
+    festivalEdition: festival?.editionSlug ?? null,
+    festivalName: festival?.name ?? null,
+    festivalShortName: festival?.shortName ?? null,
+    festivalYear: festival?.year ?? null,
+    festivalFilmNumber: festival?.filmNumber ?? null,
   }
 
   return review
