@@ -16,7 +16,7 @@ export const shortFormSeries: ShortFormSeries[] = [
     slug: "back-in-the-closet",
     title: "Back in the Closet",
     description:
-      "Criterion closet tours — filmmakers’ shelves, favourites, and the films that shaped them. New closets whenever I can get to them.",
+      "A series where I’m exploring actors and filmmakers’ Criterion Closet picks in order to expand my film knowledge.",
     episodes: [
       {
         title: "Back in the Closet",
@@ -37,9 +37,41 @@ export const shortFormSeries: ShortFormSeries[] = [
   },
   {
     slug: "director-deep-dives",
-    title: "Director Deep Dives",
+    title: "Director Deep Dives: Wes Anderson",
     description:
-      "Short bursts on a director, a filmography thread, or a single idea worth unpacking — built for Instagram, rooted in real criticism.",
+      "Symmetrical shots, pastel colours, and dry humour. This is a brief history of a man who I believe is often overlooked when it comes to the great modern directors.",
+    episodes: [
+      {
+        title: "Wes Anderson",
+        url: "https://www.instagram.com/p/DcHOsUQxzje/",
+        thumbnail: "/short-form/dchosuqxzje.jpg",
+      },
+      {
+        title: "Bottle Rocket",
+        url: "https://www.instagram.com/p/DcZQ6lMRHVJ/",
+        thumbnail: "/short-form/dczq6lmrhvj.jpg",
+      },
+      {
+        title: "Rushmore",
+        url: "https://www.instagram.com/p/DcqfFpKoMZ-/",
+        thumbnail: "/short-form/dcqffpkomz.jpg",
+      },
+      {
+        title: "The Royal Tenenbaums",
+        url: "https://www.instagram.com/p/Dc9ogGToW4H/",
+        thumbnail: "/short-form/dc9oggtow4h.jpg",
+      },
+      {
+        title: "The Life Aquatic with Steve Zissou",
+        url: "https://www.instagram.com/p/DdSC10mRaSR/",
+        thumbnail: "/short-form/ddsc10mrasr.jpg",
+      },
+    ],
+  },
+  {
+    slug: "video-essays",
+    title: "Video Essays",
+    description: "Longer short-form pieces on releases, franchises, and culture.",
     episodes: [
       {
         title: "Danny Boyle on AI & filmmaking",
@@ -47,22 +79,15 @@ export const shortFormSeries: ShortFormSeries[] = [
         thumbnail: "/short-form/ddamktso4am.jpg",
       },
       {
-        title: "The Dog Stars",
-        url: "https://www.instagram.com/p/Dc2HnYGIuuz/",
-        thumbnail: "/short-form/dc2hnygiuuz.jpg",
-      },
-      {
         title: "The Harsh Reality of Adults",
         url: "https://www.instagram.com/p/DczYKKhIKoR/",
         thumbnail: "/short-form/dczykkhikor.jpg",
       },
-    ],
-  },
-  {
-    slug: "discourse-and-culture",
-    title: "Discourse & Culture",
-    description: "Releases, franchises, and the conversations around them — when a headline deserves more than a hot take.",
-    episodes: [
+      {
+        title: "Very intrigued if you agree with this",
+        url: "https://www.instagram.com/p/DdHxq70JS-3/",
+        thumbnail: "/short-form/ddhxq70js-3.jpg",
+      },
       {
         title: "Gen AI & Film Festivals",
         url: "https://www.instagram.com/p/DZn6X9HIM_n/",
@@ -86,6 +111,3 @@ export const shortFormSeries: ShortFormSeries[] = [
     ],
   },
 ]
-
-export const contentPageIntro =
-  "Short-form series I’m building on Instagram and TikTok — each row is one thread. Every episode is visible; swipe or scroll sideways when a row runs out of room."
