@@ -1,3 +1,5 @@
+import "server-only"
+
 import ShortFormEpisodeThumb from "@/components/short-form-episode-thumb"
 import type { ShortFormSeries } from "@/lib/short-form-series"
 

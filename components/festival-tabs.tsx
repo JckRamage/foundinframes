@@ -14,9 +14,21 @@ export default function FestivalTabs({ groups, reviewsByFestival }: FestivalTabs
   const [activeSlug, setActiveSlug] = useState(groups[0]?.slug ?? "")
 
   useEffect(() => {
-    const hash = window.location.hash.replace("#", "")
-    if (hash && groups.some((group) => group.slug === hash)) {
-      setActiveSlug(hash)
+    let active = true
+
+    const syncFromHash = () => {
+      const hash = window.location.hash.replace("#", "")
+      if (!active) return
+      if (hash && groups.some((group) => group.slug === hash)) {
+        setActiveSlug(hash)
+      }
+    }
+
+    syncFromHash()
+    window.addEventListener("hashchange", syncFromHash)
+    return () => {
+      active = false
+      window.removeEventListener("hashchange", syncFromHash)
     }
   }, [groups])
 

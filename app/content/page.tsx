@@ -9,12 +9,16 @@ export const metadata: Metadata = {
 
 export default function ContentPage() {
   return (
-    <main className="mx-auto max-w-7xl px-4 py-14 md:px-6 md:py-20">
-      <h1 className="max-w-3xl font-display text-4xl font-bold tracking-tight text-maroon md:text-5xl">
-        Short-form series I&apos;m working on
-      </h1>
+    <main className="mx-auto max-w-7xl px-4 py-16 md:px-6 md:py-20">
+      <div className="mb-10 max-w-3xl">
+        <p className="text-sm font-bold uppercase tracking-[0.28em] text-orange">Short-form</p>
+        <h1 className="mt-3 font-display text-5xl font-bold tracking-tight text-maroon md:text-6xl">Series from the feed</h1>
+        <p className="mt-4 text-lg leading-8 text-ink/70">
+          Ongoing threads on Instagram and TikTok — deep dives, closet tours, and essays, grouped here.
+        </p>
+      </div>
 
-      <div className="mt-10 flex flex-col gap-10 md:mt-12 md:gap-12">
+      <div className="flex flex-col gap-10 md:gap-12">
         {shortFormSeries.map((series, index) => (
           <ShortFormSeriesRow key={series.slug} series={series} priorityCover={index === 0} />
         ))}
