@@ -17,6 +17,10 @@ export interface Review extends ReviewFrontmatter {
 let reviewSummariesCache: ReviewSummary[] | null = null
 
 function loadAllReviewSummaries(): ReviewSummary[] {
+  if (process.env.NODE_ENV === "development") {
+    reviewSummariesCache = null
+  }
+
   if (reviewSummariesCache) {
     return reviewSummariesCache
   }
@@ -85,7 +89,18 @@ export function getFeaturedReviews(limit = 3): ReviewSummary[] {
 export function getReviewsBySlugs(slugs: string[]): ReviewSummary[] {
   const reviewsBySlug = new Map(getAllReviewSummaries().map((review) => [review.slug, review]))
 
-  return slugs.map((slug) => reviewsBySlug.get(slug)).filter((review): review is ReviewSummary => review !== undefined)
+  return slugs
+    .map((slug) => reviewsBySlug.get(slug) ?? reviewToSummary(getReviewBySlug(slug)))
+    .filter((review): review is ReviewSummary => review !== undefined)
+}
+
+function reviewToSummary(review: Review | null): ReviewSummary | undefined {
+  if (!review) {
+    return undefined
+  }
+
+  const { content: _content, ...summary } = review
+  return summary
 }
 
 function readReviewSummary(fileName: string): ReviewSummary {

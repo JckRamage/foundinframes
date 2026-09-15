@@ -86,8 +86,18 @@ export default async function ReviewPage({ params }: ReviewPageProps) {
             Reviews
           </Link>
           <h1 className="mt-4 font-display text-5xl font-bold leading-tight text-ink md:text-7xl">{review.title}</h1>
-          <div className="mt-5 text-sm font-bold uppercase tracking-[0.16em] text-ink/55">
+          <div className="mt-5 flex flex-wrap items-center gap-3 text-sm font-bold uppercase tracking-[0.16em] text-ink/55">
             <span>{formatDate(review.publishedDate)}</span>
+            {review.festivalShortName ? (
+              <Link
+                href={`/festivals#${review.festivalShortName.toLowerCase()}`}
+                className="rounded-full bg-maroon/10 px-3 py-1 text-orange transition hover:bg-maroon/15 hover:text-maroon"
+              >
+                {review.festivalShortName}
+                {review.festivalYear ? ` ${review.festivalYear}` : ""}
+                {review.festivalFilmNumber ? ` · Film #${review.festivalFilmNumber}` : ""}
+              </Link>
+            ) : null}
           </div>
           <div
             className="prose prose-lg mt-10 max-w-none prose-headings:font-display prose-headings:text-ink prose-p:leading-9 prose-a:text-orange prose-strong:text-ink"

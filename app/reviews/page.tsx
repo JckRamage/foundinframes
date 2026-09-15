@@ -1,5 +1,5 @@
 import type { Metadata } from "next"
-import ReviewPosterCard from "@/components/review-poster-card"
+import ReviewListCard from "@/components/review-list-card"
 import ReviewsPagination from "@/components/reviews-pagination"
 import { paginateReviews } from "@/lib/posters"
 import { getAllReviewSummaries } from "@/lib/reviews"
@@ -35,10 +35,10 @@ export default async function ReviewsPage({ searchParams }: ReviewsPageProps) {
         ) : null}
       </div>
 
-      <div className="grid grid-cols-2 gap-4 md:grid-cols-3 md:gap-6 lg:grid-cols-4">
+      <div className="grid gap-4 lg:grid-cols-2">
         {reviews.length > 0 ? (
           reviews.map((review, index) => (
-            <ReviewPosterCard key={review.slug} review={review} priority={index < 8} />
+            <ReviewListCard key={review.slug} review={review} priority={index < 6} />
           ))
         ) : (
           <p className="rounded-3xl border border-ink/10 bg-white/70 p-8 text-ink/70">
