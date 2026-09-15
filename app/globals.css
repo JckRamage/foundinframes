@@ -6,20 +6,11 @@
   box-sizing: border-box;
 }
 
-html {
-  scroll-behavior: smooth;
-}
-
 body {
   min-height: 100vh;
   background-color: #f8f7f0;
   color: #5a3d2b;
   font-family: var(--font-sans);
-}
-
-.content-auto-section {
-  content-visibility: auto;
-  contain-intrinsic-size: 800px;
 }
 
 h1,

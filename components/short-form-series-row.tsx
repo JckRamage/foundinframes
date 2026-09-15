@@ -29,7 +29,7 @@ export default function ShortFormSeriesRow({ series, priorityCover = false }: Sh
       </header>
 
       <div
-        className="-mx-4 flex gap-3 overflow-x-auto px-4 pb-2 md:mx-0 md:gap-4 md:px-0 [-ms-overflow-style:none] [scrollbar-width:thin] [&::-webkit-scrollbar]:h-1.5 [&::-webkit-scrollbar-thumb]:rounded-full [&::-webkit-scrollbar-thumb]:bg-maroon/20"
+        className="-mx-4 flex gap-3 overflow-x-auto overscroll-x-contain px-4 pb-2 md:mx-0 md:gap-4 md:px-0 [-ms-overflow-style:none] [scrollbar-width:thin] [&::-webkit-scrollbar]:h-1.5 [&::-webkit-scrollbar-thumb]:rounded-full [&::-webkit-scrollbar-thumb]:bg-maroon/20"
         style={{ scrollSnapType: "x mandatory" }}
         aria-label={`Episodes in ${series.title}`}
       >

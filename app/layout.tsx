@@ -46,7 +46,7 @@ export default function RootLayout({
     <html lang="en" className={`${abrilFatface.variable} ${poppins.variable}`}>
       <body className="antialiased">
         <PageBackground />
-        <header className="sticky top-0 z-50 border-b border-ink/10 bg-paper/90 backdrop-blur">
+        <header className="sticky top-0 z-50 border-b border-ink/10 bg-[#f8f7f0]/98">
           <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-3 md:px-6">
             <Link href="/" className="flex items-center gap-3">
               <Image
