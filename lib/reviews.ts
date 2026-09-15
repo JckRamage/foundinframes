@@ -99,8 +99,11 @@ function reviewToSummary(review: Review | null): ReviewSummary | undefined {
     return undefined
   }
 
-  const { content: _content, ...summary } = review
-  return summary
+  const { content, ...summary } = review
+  return {
+    ...summary,
+    excerpt: summary.excerpt ?? createExcerpt(content),
+  }
 }
 
 function readReviewSummary(fileName: string): ReviewSummary {
