@@ -39,7 +39,9 @@ export default function HomePage() {
           <div className="space-y-4">
             <h1 className="font-display text-4xl font-bold leading-tight md:text-5xl">Found in Frames</h1>
             <p className="max-w-2xl text-base leading-7 text-cream/90 md:text-lg">
-              Long-form film criticism, festival coverage, and video essays — written to be read, not just ranked.
+              Found in Frames is my home for film criticism. In a world where it feels less valued than ever, I write
+              about film here in every format I can — long reviews, video essays, and short-form work that still has
+              something to say. You&apos;ll find all the random thoughts here.
             </p>
             <div className="flex flex-wrap gap-3">
               <Link
