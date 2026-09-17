@@ -7,7 +7,7 @@ publishedDate: '2026-09-15'
 letterboxdUrl: >-
   https://letterboxd.com/foundinframes/film/the-only-living-pickpocket-in-new-york/
 posterUrl: >-
-  https://a.ltrbxd.com/resized/film-poster/1/3/3/4/7/9/4/1334794-the-only-living-pickpocket-in-new-york-0-600-0-900-crop.jpg?v=6ef7184134
+  https://a.ltrbxd.com/resized/sm/upload/0e/eb/nv/t8/pick-0-600-0-900-crop.jpg?v=e4ffe8cc42
 wordCount: 616
 slug: the-only-living-pickpocket-in-new-york-2026
 excerpt: >-
