@@ -6,7 +6,7 @@ watchedDate: '2026-09-10'
 publishedDate: '2026-09-12'
 letterboxdUrl: 'https://letterboxd.com/foundinframes/film/coward-2026/'
 posterUrl: >-
-  https://a.ltrbxd.com/resized/film-poster/1/3/1/5/7/5/5/1315755-coward-2026-0-600-0-900-crop.jpg?v=1b0612cebd
+  https://a.ltrbxd.com/resized/film-poster/1/3/1/5/7/5/5/1315755-coward-2026-0-600-0-900-crop.jpg?v=aa72bd1feb
 wordCount: 880
 slug: coward-2026
 excerpt: >-
