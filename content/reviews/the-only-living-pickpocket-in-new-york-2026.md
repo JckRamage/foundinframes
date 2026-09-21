@@ -2,7 +2,7 @@
 title: The Only Living Pickpocket in New York
 year: 2026
 rating: 3
-watchedDate: '2026-09-15'
+watchedDate: '2026-09-10'
 publishedDate: '2026-09-15'
 letterboxdUrl: >-
   https://letterboxd.com/foundinframes/film/the-only-living-pickpocket-in-new-york/
