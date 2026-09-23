@@ -1,7 +1,7 @@
 export const pinnedReviewSlugs = [
   "coward-2026",
   "the-invite-2026",
-  "billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d-2026",
+  "the-moment-2026",
   "queer-2024",
   "dune-part-two-2024",
   "materialists-2025",
