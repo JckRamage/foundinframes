@@ -6,7 +6,7 @@ watchedDate: '2026-09-11'
 publishedDate: '2026-09-22'
 letterboxdUrl: 'https://letterboxd.com/foundinframes/film/a-long-winter-2026/'
 posterUrl: >-
-  https://a.ltrbxd.com/resized/film-poster/1/4/0/9/0/2/4/1409024-a-long-winter-2026-0-600-0-900-crop.jpg?v=0e5dd38a1c
+  https://a.ltrbxd.com/resized/film-poster/1/4/0/9/0/2/4/1409024-a-long-winter-2026-0-600-0-900-crop.jpg?v=6a4073ca80
 wordCount: 641
 slug: a-long-winter-2026
 excerpt: >-
