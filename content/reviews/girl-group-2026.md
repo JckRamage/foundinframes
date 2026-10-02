@@ -6,7 +6,7 @@ watchedDate: '2026-09-11'
 publishedDate: '2026-09-24'
 letterboxdUrl: 'https://letterboxd.com/foundinframes/film/girl-group/'
 posterUrl: >-
-  https://a.ltrbxd.com/resized/film-poster/1/4/2/5/7/9/8/1425798-girl-group-0-600-0-900-crop.jpg?v=595b716178
+  https://a.ltrbxd.com/resized/film-poster/1/4/2/5/7/9/8/1425798-girl-group-0-600-0-900-crop.jpg?v=9e54323db6
 wordCount: 868
 slug: girl-group-2026
 excerpt: >-
