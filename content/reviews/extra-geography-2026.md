@@ -6,7 +6,7 @@ watchedDate: '2026-08-13'
 publishedDate: '2026-08-15'
 letterboxdUrl: 'https://letterboxd.com/foundinframes/film/extra-geography/'
 posterUrl: >-
-  https://a.ltrbxd.com/resized/film-poster/1/4/0/3/8/9/7/1403897-extra-geography-0-600-0-900-crop.jpg?v=06c6e28b50
+  https://a.ltrbxd.com/resized/film-poster/1/4/0/3/8/9/7/1403897-extra-geography-0-600-0-900-crop.jpg?v=53c5a61719
 wordCount: 530
 slug: extra-geography-2026
 excerpt: >-
