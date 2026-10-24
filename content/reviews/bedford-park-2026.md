@@ -6,7 +6,7 @@ watchedDate: '2026-09-10'
 publishedDate: '2026-09-18'
 letterboxdUrl: 'https://letterboxd.com/foundinframes/film/bedford-park/'
 posterUrl: >-
-  https://a.ltrbxd.com/resized/film-poster/1/3/4/7/0/5/6/1347056-bedford-park-0-600-0-900-crop.jpg?v=a3b3805108
+  https://a.ltrbxd.com/resized/film-poster/1/3/4/7/0/5/6/1347056-bedford-park-0-600-0-900-crop.jpg?v=28f1f41a71
 wordCount: 558
 slug: bedford-park-2026
 excerpt: >-
