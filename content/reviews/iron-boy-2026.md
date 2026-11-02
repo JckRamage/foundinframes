@@ -6,7 +6,7 @@ watchedDate: '2026-09-11'
 publishedDate: '2026-09-22'
 letterboxdUrl: 'https://letterboxd.com/foundinframes/film/iron-boy/'
 posterUrl: >-
-  https://a.ltrbxd.com/resized/film-poster/8/5/1/7/4/7/851747-iron-boy-0-600-0-900-crop.jpg?v=c3fd3b948c
+  https://a.ltrbxd.com/resized/film-poster/8/5/1/7/4/7/851747-iron-boy-0-600-0-900-crop.jpg?v=da60ad7b48
 wordCount: 571
 slug: iron-boy-2026
 excerpt: >-
