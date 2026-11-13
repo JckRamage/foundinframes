@@ -2,7 +2,7 @@
 title: Artificial
 year: 2026
 rating: 4.5
-watchedDate: '2026-11-12'
+watchedDate: '2026-10-11'
 publishedDate: '2026-11-12'
 letterboxdUrl: 'https://letterboxd.com/foundinframes/film/artificial-2026/'
 posterUrl: >-

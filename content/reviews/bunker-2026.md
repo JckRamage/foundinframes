@@ -2,7 +2,7 @@
 title: Bunker
 year: 2026
 rating: 3.5
-watchedDate: '2026-11-12'
+watchedDate: '2026-10-10'
 publishedDate: '2026-11-13'
 letterboxdUrl: 'https://letterboxd.com/foundinframes/film/bunker-2026-1/'
 posterUrl: >-
