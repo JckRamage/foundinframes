@@ -7,13 +7,15 @@ publishedDate: '2026-11-13'
 letterboxdUrl: 'https://letterboxd.com/foundinframes/film/prima-facie-2026/'
 posterUrl: >-
   https://a.ltrbxd.com/resized/film-poster/1/0/1/5/7/2/5/1015725-prima-facie-2026-0-600-0-900-crop.jpg?v=e95d80d7f2
-wordCount: 478
+wordCount: 481
 slug: prima-facie-2026
 excerpt: >-
-  Given the acclaim of the play from which this film was adapted, this also
-  being written by the same writer and the strength of Erivo as a performer,
-  this film feels like it shou...
+  LFF Film 15 Given the acclaim of the play from which this film was adapted,
+  this also being written by the same writer and the strength of Erivo as a
+  performer, this film feels...
 ---
+LFF Film #15
+
 Given the acclaim of the play from which this film was adapted, this also being written by the same writer and the strength of Erivo as a performer, this film feels like it should've been a recipe for a complete knockout... it sadly fails to meet the expectations set by the play.
 
 Cynthia Erivo is incredible, I do not think she's the problem here, she completely disappears into this role, which is quite hard to do coming off the back of a role as big as Elphaba, but she does it with ease. The film exists as an expansion on the play, the play only really takes place in the courthouse, this movie takes it outside of the courthouse and explores the woman's life a little bit more.
