@@ -6,7 +6,7 @@ watchedDate: '2026-10-11'
 publishedDate: '2026-11-12'
 letterboxdUrl: 'https://letterboxd.com/foundinframes/film/artificial-2026/'
 posterUrl: >-
-  https://a.ltrbxd.com/resized/film-poster/1/3/6/8/6/7/2/1368672-artificial-2026-0-600-0-900-crop.jpg?v=0f0f8a33a3
+  https://a.ltrbxd.com/resized/film-poster/1/3/6/8/6/7/2/1368672-artificial-2026-0-600-0-900-crop.jpg?v=dcf7eb1991
 wordCount: 679
 slug: artificial-2026
 excerpt: >-
