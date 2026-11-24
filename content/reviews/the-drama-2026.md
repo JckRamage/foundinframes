@@ -3,7 +3,7 @@ title: The Drama
 year: 2026
 rating: 4.5
 watchedDate: '2026-04-05'
-publishedDate: '2026-05-05'
+publishedDate: '2026-05-06'
 letterboxdUrl: 'https://letterboxd.com/foundinframes/film/the-drama/'
 posterUrl: >-
   https://a.ltrbxd.com/resized/film-poster/1/2/0/5/4/9/4/1205494-the-drama-0-600-0-900-crop.jpg?v=2320acafd5
@@ -30,6 +30,6 @@ I love how the entire thesis of the film attempts to explore the idea of startin
 
 On the other hand, Emma has worked through her darkness. Her upbringing, and modern life in general is a breeding ground for individualism, it’s an explanation for why she had the thoughts she did, but not the sole reason - of which I don’t think there is. However, she worked through it, and found that community was the antidote. 
 
-The whole film hinging on the idea that we require justifications for actions and that if we don’t have this then something’s wrong is decidedly an issue with moral reasoning, something we’ve become obsessed with. We must have explanations for a world which is chaos, it’s contradictory. Similarly wanting clear lines, knowing when they’ve been crossed will never get us anywhere. At the end of the day the only people whose thoughts matter are the people you love, if they’re willing to see past the darkness and allow for a second chance.
+The whole film hinging on the idea that we require justifications for actions and that if we don’t have this then something’s wrong is decidedly an issue with moral reasoning, something we’ve become obsessed with. We must have explanations for a world which is chaos, it’s contradictory. Similarly wanting clear lines, knowing when they’ve been crossed will never get us anywhere. At the end of the day the only people whose thoughts matter are the people you love, if they’re willing to see past the darkness and allow for a second chance. 
 
 People will never know the whole story of anybody else, so why concern yourself with their thoughts, maybe the scary thing is that we will never truly understand the people we love, but if we truly love them and know them as best as we can, maybe it’s on us to grant second chances, even if the world says otherwise

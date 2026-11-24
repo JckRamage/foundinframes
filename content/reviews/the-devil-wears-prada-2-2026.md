@@ -3,18 +3,18 @@ title: The Devil Wears Prada 2
 year: 2026
 rating: 2
 watchedDate: '2026-05-01'
-publishedDate: '2026-05-10'
+publishedDate: '2026-05-11'
 letterboxdUrl: 'https://letterboxd.com/foundinframes/film/the-devil-wears-prada-2/'
 posterUrl: >-
   https://a.ltrbxd.com/resized/film-poster/1/1/9/5/5/8/6/1195586-the-devil-wears-prada-2-0-600-0-900-crop.jpg?v=0d955add69
-wordCount: 1858
+wordCount: 1867
 slug: the-devil-wears-prada-2-2026
 excerpt: >-
-  Welp. Not sure I've ever sat on a movie for as long as I have with this. I'm
-  seriously conflicted about how I feel; the following is where I'm at
-  currently, but I will be seeing...
+  <a href="https://www.youtube.com/watch?v=DIz4c1L8R7A" If you're a visual
+  learner, click here.</a Welp. Not sure I've ever sat on a movie for as long as
+  I have with this. I'm ser...
 ---
-[If you're a visual learner, click here.](https://www.youtube.com/watch?v=DIz4c1L8R7A)
+<a href="https://www.youtube.com/watch?v=DIz4c1L8R7A"> If you're a visual learner, click here.</a>
 
 Welp. Not sure I've ever sat on a movie for as long as I have with this. I'm seriously conflicted about how I feel; the following is where I'm at currently, but I will be seeing this again to get a better grasp of how I feel.
 

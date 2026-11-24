@@ -9,6 +9,7 @@
     "typecheck": "tsc --noEmit",
     "import:letterboxd:rss": "tsx scripts/import-letterboxd-rss.ts",
     "import:letterboxd:export": "tsx scripts/import-letterboxd-export.ts",
+    "sync:letterboxd:export": "tsx scripts/sync-letterboxd-export.ts",
     "backfill:posters:rss": "tsx scripts/backfill-posters-from-rss.ts",
     "backfill:posters:imdb": "tsx scripts/backfill-posters-from-imdb.ts",
     "backfill:posters:letterboxd": "tsx scripts/backfill-posters-from-letterboxd.ts"
