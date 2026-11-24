@@ -3,7 +3,7 @@
 import Image from "next/image"
 import Link from "next/link"
 import { getOptimizedPosterUrl } from "@/lib/posters"
-import { formatDate, formatRating } from "@/lib/review-format"
+import { formatRating } from "@/lib/review-format"
 import type { ReviewSummary } from "@/lib/review-types"
 
 interface ReviewListCardProps {
@@ -45,9 +45,6 @@ export default function ReviewListCard({ review, priority = false, badge }: Revi
             {review.title}
           </h3>
           <p className="line-clamp-3 text-sm leading-6 text-ink/75">{review.excerpt}</p>
-          <p className="text-xs font-semibold uppercase tracking-wide text-ink/45">
-            Published {formatDate(review.publishedDate)}
-          </p>
         </div>
       </Link>
     </article>

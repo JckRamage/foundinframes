@@ -87,7 +87,6 @@ export default async function ReviewPage({ params }: ReviewPageProps) {
           </Link>
           <h1 className="mt-4 font-display text-5xl font-bold leading-tight text-ink md:text-7xl">{review.title}</h1>
           <div className="mt-5 flex flex-wrap items-center gap-3 text-sm font-bold uppercase tracking-[0.16em] text-ink/55">
-            <span>{formatDate(review.publishedDate)}</span>
             {review.festivalShortName ? (
               <Link
                 href={`/festivals#${review.festivalShortName.toLowerCase()}`}

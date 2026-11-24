@@ -1,6 +1,6 @@
 import Image from "next/image"
 import Link from "next/link"
-import { formatDate, formatRating, type ReviewSummary } from "@/lib/reviews"
+import { formatRating, type ReviewSummary } from "@/lib/reviews"
 
 interface ReviewCardProps {
   review: ReviewSummary
@@ -25,7 +25,7 @@ export default function ReviewCard({ review, priority = false }: ReviewCardProps
           <div className="mb-3 flex flex-wrap items-center gap-2 text-xs font-bold uppercase tracking-[0.18em] text-orange">
             <span>{formatRating(review.rating)}</span>
             <span className="text-ink/30">/</span>
-            <span className="text-ink/55">{formatDate(review.publishedDate)}</span>
+            <span className="text-ink/55">{review.year}</span>
           </div>
           <h2 className="font-display text-3xl font-bold leading-tight text-ink">
             <Link href={`/reviews/${review.slug}`} className="transition hover:text-orange">

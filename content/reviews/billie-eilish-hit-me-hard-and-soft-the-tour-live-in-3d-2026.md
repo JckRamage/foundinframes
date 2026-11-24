@@ -5,6 +5,7 @@ rating: 4.5
 watchedDate: '2026-05-09'
 publishedDate: '2026-05-10'
 letterboxdUrl: >-
+  https://letterboxd.com/foundinframes/film/billie-eilish-hit-me-hard-and-soft-the-tour/
 posterUrl: >-
   https://a.ltrbxd.com/resized/film-poster/1/3/9/1/7/2/8/1391728-billie-eilish-hit-me-hard-and-soft-the-tour-0-600-0-900-crop.jpg?v=bcd6d878b6
 wordCount: 835

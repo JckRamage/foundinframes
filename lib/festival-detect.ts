@@ -10,6 +10,11 @@ const festivalPatterns = [
     name: "London Film Festival",
   },
   {
+    regex: /^LFF\s*(?:Film|Watch)\s*#?(\d+)/im,
+    shortName: "LFF",
+    name: "London Film Festival",
+  },
+  {
     regex: /^Venice Film Festival\s*#?(\d+)/im,
     shortName: "Venice",
     name: "Venice Film Festival",
